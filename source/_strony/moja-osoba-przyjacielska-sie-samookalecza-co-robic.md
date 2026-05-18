@@ -97,6 +97,6 @@ Liczymy na to, że wszystko się uda, i trzymamy za Was kciuki.
 
 **Zobacz inne artykuły:**  
 
-1. Samookaleczam się. Co mogę z tym zrobić?  
-2. Mam problem z substancjami psychoaktywnymi. Co mogę z tym zrobić?  
-3. Moja osoba przyjacielska się samookalecza. Jak mogę jej pomóc?  
+1. [Samookaleczam się. Co mogę z tym zrobić?  ](https://tranzycja.pl/strony/samookaleczam-sie-co-robic)
+2. [Mam problem z substancjami psychoaktywnymi. Co mogę z tym zrobić?  ](https://tranzycja.pl/strony/naduzywam-substancji-psychoaktywnych-co-robic)
+4. [Moje dziecko się samookalecza. Co mogę zrobić?  ](https://tranzycja.pl/strony/moje-dziecko-sie-samookalecza-co-robic)
