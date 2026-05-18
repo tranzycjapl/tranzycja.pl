@@ -15,3 +15,11 @@ Zakładamy, że jesteś rodzicem transpłciowego dziecka i niedawno odkrył_ś, 
 - *[Młodzi w kryzysie. Praca zbiorowa.](https://dzialam.um.warszawa.pl/documents/64756/36767026/M%C5%82odzi+w+kryzysie+-+poradnik+dla+rodzic%C3%B3w+i+doros%C5%82ych+pracuj%C4%85cych+z+m%C5%82odzie%C5%BC%C4%85.+Aktualny.pdf/76404655-5c83-4c87-0a6c-c2691cf28617?t=1652861286060)* (2022). Wyd. przez m.st. Warszawa.  
 
 Pamiętaj, że wsparcie i zrozumienie możesz otrzymać od innych rodziców dzieci transpłciowych.  
+
+**Zobacz inne artykuły:**  
+
+1. [Samookaleczam się. Co mogę z tym zrobić?  ](https://tranzycja.pl/strony/samookaleczam-sie-co-robic)
+2. [Mam problem z substancjami psychoaktywnymi. Co mogę z tym zrobić?  ](https://tranzycja.pl/strony/naduzywam-substancji-psychoaktywnych-co-robic)
+3. [Moja osoba przyjacielska się samookalecza. Jak mogę jej pomóc?  ](https://tranzycja.pl/strony/moja-osoba-przyjacielska-sie-samookalecza-co-robic)
+
+  
