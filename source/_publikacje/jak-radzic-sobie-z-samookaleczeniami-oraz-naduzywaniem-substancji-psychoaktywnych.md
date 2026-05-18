@@ -6,12 +6,13 @@ meta:
 opublikowano: '2026-05-18 23:27:45'
 zaktualizowano: '2026-05-18 23:27:45'
 ---
+
 # Jak radzić sobie z samookaleczaniem i zażywaniem substancji psychoaktywnych? Porady dla osób transpłciowych poniżej 18 roku życia i ich bliskich 
 
 Ten artykuł powstał z myślą o osobach transpłciowych i różnorodnych płciowo poniżej 18 roku życia, które dokonują samookaleczeń, i został napisany przez osoby trans, które same również miały podobne doświadczenia w przeszłości. Znajdują się w nim także informacje przydatne dla osób przyjacielskich/partnerskich, które chcą wspierać swoich bliskich, oraz odnośniki do dostępnych w języku polskim zasobów dla rodziców dzieci, które się samookaleczają.
 
 :::info
-Ten artykuł powstał jako uzupełnienie poradnika *Czy jestem trans? Niezbędnik wsparcia dla nastolatków.* W przyszłości chciałybyśmy stworzyć także wersję artykułu skierowaną dla osób dorosłych. Jednocześnie wiele treści zawartych w tej wersji tekstu będzie przydatnych dla osób w każdym wieku. 
+Ten artykuł powstał jako uzupełnienie poradnika [*Czy jestem trans? Niezbędnik wsparcia dla nastolatków.*](https://tranzycja.pl/media/docs/autorskie/moje-dziecko-jest-trans-2026.pdf) W przyszłości chciałybyśmy stworzyć także wersję artykułu skierowaną dla osób dorosłych. Jednocześnie wiele treści zawartych w tej wersji tekstu będzie przydatnych dla osób w każdym wieku. 
 :::
  
 
@@ -45,10 +46,10 @@ Chcemy powiedzieć, że nie sądzimy, że samookaleczenia są czymś tchórzliwy
 
 **Przejdź do kolejnych artykułów:**  
 
-1. Samookaleczam się. Co mogę z tym zrobić?  
-2. Mam problem z substancjami psychoaktywnymi. Co mogę z tym zrobić?  
-3. Moja osoba przyjacielska się samookalecza. Jak mogę jej pomóc?  
-4. Moje dziecko się samookalecza. Co mogę zrobić?  
+1. [Samookaleczam się. Co mogę z tym zrobić?  ](https://tranzycja.pl/strony/samookaleczam-sie-co-robic)
+2. [Mam problem z substancjami psychoaktywnymi. Co mogę z tym zrobić?  ](https://tranzycja.pl/strony/naduzywam-substancji-psychoaktywnych-co-robic)
+3. [Moja osoba przyjacielska się samookalecza. Jak mogę jej pomóc?  ](https://tranzycja.pl/strony/moja-osoba-przyjacielska-sie-samookalecza-co-robic)
+4. [Moje dziecko się samookalecza. Co mogę zrobić?  ](https://tranzycja.pl/strony/moje-dziecko-sie-samookalecza-co-robic)
 
 :::spoiler Materiały opracowano na podstawie: 
 
