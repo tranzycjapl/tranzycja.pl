@@ -153,12 +153,13 @@ Dzięki tej wiedzy będziesz mieć możliwość wprowadzania mniejszych lub wię
 **Uwaga:** większość ran po samookaleczeniu wymaga podstawowego zaopiekowania – odkażenia, zatamowania krwawienia, trzymania zranionego miejsca wyżej, jeżeli jest to możliwe itp. Są jednak sytuacje, w których twoje rany mogą wymagać szybkiej pomocy lekarza, możesz np. przebić arterię, uszkodzić ścięgno lub nerw:  
 - Przebicie arterii rozpoznasz na podstawie różnicy w kolorze krwi (jest bardziej czerwona) i tego, że wyskakuje/wypływa ona z rany w rytm bicia serca i po naciśnięciu skaleczonego miejsca.  
 - Zauważysz, że uszkodził_ś ścięgno, gdy w ranie zobaczysz coś białego i nie będziesz w stanie ruszać np. palcem, z którym jest połączone ścięgno.  
-- Uszkodzenie nerwu rozpoznasz na podstawie utraty czucia na skórze czy utraty możliwości poruszania określonymi partiami mięśni.  
+- Uszkodzenie nerwu rozpoznasz na podstawie utraty czucia na skórze czy utraty możliwości poruszania określonymi partiami mięśni.
 
 Udaj się do lekarza lub pielęgniarki szkolnej, jeśli podejrzewasz, że skaleczenie mogło zostać zakażone lub nie goi się prawidłowo. Objawy zakażenia obejmują: obrzęk, zaczerwienienie i narastający ból w dotkniętym obszarze, obecność ropy w ranie lub wokół niej. 
 
 **Zobacz inne artykuły:**  
 
-2. Mam problem z substancjami psychoaktywnymi. Co mogę z tym zrobić?  
-3. Moja osoba przyjacielska się samookalecza. Jak mogę jej pomóc?  
-4. Moje dziecko się samookalecza. Co mogę zrobić?  
+2. [Mam problem z substancjami psychoaktywnymi. Co mogę z tym zrobić?  ](https://tranzycja.pl/strony/naduzywam-substancji-psychoaktywnych-co-robic)
+3. [Moja osoba przyjacielska się samookalecza. Jak mogę jej pomóc?  ](https://tranzycja.pl/strony/moja-osoba-przyjacielska-sie-samookalecza-co-robic)
+4. [Moje dziecko się samookalecza. Co mogę zrobić?  ](https://tranzycja.pl/strony/moje-dziecko-sie-samookalecza-co-robic)
+  
