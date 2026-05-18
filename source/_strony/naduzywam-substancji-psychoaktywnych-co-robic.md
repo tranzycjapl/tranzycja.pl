@@ -77,6 +77,7 @@ Jeżeli chcesz wiedzieć więcej o doprawianiu drinków, zajrzyj na [artykuł na
 
 **Zobacz inne artykuły:**  
 
-1. Samookaleczam się. Co mogę z tym zrobić?  
-3. Moja osoba przyjacielska się samookalecza. Jak mogę jej pomóc?  
-4. Moje dziecko się samookalecza. Co mogę zrobić?  
+1. [Samookaleczam się. Co mogę z tym zrobić?  ](https://tranzycja.pl/strony/samookaleczam-sie-co-robic)
+3. [Moja osoba przyjacielska się samookalecza. Jak mogę jej pomóc?  ](https://tranzycja.pl/strony/moja-osoba-przyjacielska-sie-samookalecza-co-robic)
+4. [Moje dziecko się samookalecza. Co mogę zrobić?  ](https://tranzycja.pl/strony/moje-dziecko-sie-samookalecza-co-robic)
+   
