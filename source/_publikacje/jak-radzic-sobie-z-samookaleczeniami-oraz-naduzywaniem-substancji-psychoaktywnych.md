@@ -1,11 +1,11 @@
 ---
 tags: publikacje
-meta: 
-    Autorzy: Dag Fajt
-    Korekta: Anna Wiatrowska, Julia Zając, Olesia Ivchenko
-    
+meta:
+    Autorzy: 'Dag Fajt'
+    Korekta: 'Anna Wiatrowska, Julia Zając, Olesia Ivchenko'
+opublikowano: '2026-05-18 23:27:45'
+zaktualizowano: '2026-05-18 23:27:45'
 ---
-
 # Jak radzić sobie z samookaleczaniem i zażywaniem substancji psychoaktywnych? Porady dla osób transpłciowych poniżej 18 roku życia i ich bliskich 
 
 Ten artykuł powstał z myślą o osobach transpłciowych i różnorodnych płciowo poniżej 18 roku życia, które dokonują samookaleczeń, i został napisany przez osoby trans, które same również miały podobne doświadczenia w przeszłości. Znajdują się w nim także informacje przydatne dla osób przyjacielskich/partnerskich, które chcą wspierać swoich bliskich, oraz odnośniki do dostępnych w języku polskim zasobów dla rodziców dzieci, które się samookaleczają.
