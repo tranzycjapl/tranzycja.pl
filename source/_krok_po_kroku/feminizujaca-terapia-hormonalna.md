@@ -235,19 +235,20 @@ Wiele osób preferuje tę metodę podawania leku: zastrzyki są mniej bolesne i 
 Należy tutaj jednak zaznaczyć, że pomimo rosnącej popularności żadne wytyczne nie zawierają na ten moment możliwości podskórnego podawania estradiolu, a badania w tym obszarze są dopiero przeprowadzane. Z tego względu wielu endokrynologów może być sceptycznych co do takiej formy podawania.
 
 :::spoiler Tabelka z porównaniem kosztu poszczególnych metod
-| Droga podania | Handlowa nazwa | Zakres dawkowania | Najczęstsze dawkowanie¹ | Opakowanie zawiera | Koszt opakowania¹ | Na ile dni starcza opakowanie?¹ | Koszt na miesiąc¹ | Uwagi |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Doustnie | Estrofem* | 4-8mg dziennie | 6mg dziennie |  28 pigułek 2mg |4,77zł | 9,3 dnia |  15,85 zł| Występuje również jako Estrofem Mite 1mg, ale jest mniej opłacalny |
-| Podjęzykowo | Estrofem* | 2-4mg dziennie | 3mg dziennie | 28 pigułek 2mg |4,77zł | 18,6 dnia | 7,93 zł|  |
-| Przeskórnie | Divigel* | 2-4 saszetki dziennie | 3 saszetki dziennie | 28 saszetek 1mg/1g | 24,91 zł  | 9,3 dnia | 81,24 zł|  |
-|  | Oestrogel* |  2-4 pompki dziennie | 3 pompki dziennie | Dozownik z 60 dawkami po 0,75mg | 17.56 zł | 20 dni | 26,73 zł|  |
-|  | Fem7 | 2-3 plastry co 7 dni | 2 plastry co 7 dni | 4 plastry | 45 zł² | 14 dni | 97,84 zł | Nie jest refundowany. |
-|  | Systen 50* | 2-3 plastry co 3,5 dnia | 2 plastry co 3,5 dnia | 6 plastry | 7,05 zł | 10,5 dni | 20,44 zł|  |
-| Domięśniowo/podskórnie | Neofolin⁴ | 1 ampułka 5mg co 3-7 dni | 1 ampułka 5mg co 5 dni | 5 ampułek 5mg | 29 zł² | 25 dni | 35,31 zł| Należy doliczyć koszty podróży do Czech/Słowacji. |
+| Droga podania | Handlowa nazwa | Zakres dawkowania | Najczęstsze dawkowanie¹ | Opakowanie zawiera | Koszt opakowania¹ | Na ile dni starcza opakowanie?¹ | Koszt na miesiąc¹
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Doustnie | Estrofem* | 4-8mg dziennie | 6mg dziennie |  28 pigułek 2mg |4,77zł | 9,3 dnia |  15,85 zł|
+| Podjęzykowo | Estrofem* | 2-4mg dziennie | 3mg dziennie | 28 pigułek 2mg |4,77zł | 18,6 dnia | 7,93 zł|
+| Przeskórnie | Divigel* | 2-4 saszetki dziennie | 3 saszetki dziennie | 28 saszetek 1mg/1g | 24,91 zł  | 9,3 dnia | 81,24 zł|
+|  | Oestrogel* |  2-4 pompki dziennie | 3 pompki dziennie | Dozownik z 60 dawkami po 0,75mg | 17.56 zł | 20 dni | 26,73 zł|
+|  | Fem7 | 2-3 plastry co 7 dni | 2 plastry co 7 dni | 4 plastry | 45 zł² | 14 dni | 97,84 zł |
+|  | Systen 50* | 2-3 plastry co 3,5 dnia | 2 plastry co 3,5 dnia | 6 plastry | 7,05 zł | 10,5 dni | 20,44 zł|
+| Domięśniowo/podskórnie | Neofolin⁴ | 1 ampułka 5mg co 3-7 dni | 1 ampułka 5mg co 5 dni | 5 ampułek 5mg | 29 zł² | 25 dni | 35,31 zł³ |
 
 *Preparaty refundowane są oznaczone gwiazdką.
 ¹W celu obliczenia przybliżonego średniego kosztu na miesiąc konieczne było przyjęcie kilku założeń. Najczęstsze dawkowanie oznacza tutaj dawkę, która w naszym odczuciu jest spotykana najczęściej. W sytuacjach, w których istnieje kilka różnych form leku, koszt opakowania dotyczy najkorzystniejszego wariantu. Z racji dużych różnic indywidualnych w przyswajalności hormonów może się okazać, że rzeczywista cena na miesiąc będzie wyższa bądź niższa o ~25%.
 ²Cena uśredniona w oparciu o internetowe ceny apteczne.
+³Należy doliczyć koszty podróży do Czech/Słowacji.
 :::
 
 
@@ -284,21 +285,21 @@ W części krajów europejskich (Wielka Brytania, Włochy, Holandia) najczęści
 U małego odsetka osób nawet przy najwyższych możliwych dawkach antyandrogenu testosteron może nadal nie osiągnąć docelowego poziomu. W takich sytuacjach konieczna jest konsultacja z endokrynologiem - czasami naprawić może to zmiana sposobu podawania estradiolu na inny lub zmiana antyandrogenu. Jeśli mimo to nie udaje się stłumić testosteronu, może to być objawem innych problemów zdrowotnych, np. guzów jąder.[^36] 
 
 :::spoiler Porównanie szacunkowej ceny poszczególnych antyandrogenów.
-| Substancja | Handlowa nazwa | Zakres dawkowania | Najczęstsze dawkowanie¹ | Koszt opakowania¹ | Na ile dni starcza opakowanie? | Koszt na miesiąc | Uwagi |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Octan cyproteronu | Androcur* | 6,25 - 12,5mg dziennie³ | 12,5 mg dziennie | Opakowanie Androcur (50 tabletek po 50 mg) = 27.14 zł | 200 dni | 3,83 zł | |
-| Spironolakton | Spironol*, Finospir*, Verospir | 100-200 mg dziennie | 200mg dziennie | Opakowanie Spironol 100 (20 tabletek po 100 mg) = 14,86 zł | 10 dni | 45,23 zł | |
-| Goserelina | Reseligo, Zoladex, Xanderla | 1 ampułka co 4 tygodnie | 1 ampułka co 4 tygodnie | Jedna ampułka Reseligo = 172 zł² | 28 dni | 175,20 zł | Cena podana dla preparatu Reseligo. Poza tym istnieją zamienniki Xanderla (cena zbliżona) oraz Zoladex (cena wyższa o 60 zł miesięcznie). Leki te są dostępne również w formie wolno działającej (LA) wówczas zastrzyk wykonuje się raz na 12 tygodni. Cena na miesiąc pozostaje ta sama. |
-| Bikatulamid | Bicalutamide Accord | 50 - 100mg dziennie | 50 mg dziennie | Opakowanie Biculatamide Accord (28 tabletek po 50mg) = 60zł² | 28 dni | 65,23 zł | |
+| Substancja | Handlowa nazwa | Zakres dawkowania | Najczęstsze dawkowanie¹ | Koszt opakowania¹ | Na ile dni starcza opakowanie? | Koszt na miesiąc |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Octan cyproteronu | Androcur* | 6,25 - 12,5mg dziennie³ | 12,5 mg dziennie | Opakowanie Androcur (50 tabletek po 50 mg) = 27.14 zł | 200 dni | 3,83 zł |
+| Spironolakton | Spironol*, Finospir*, Verospir | 100-200 mg dziennie | 200mg dziennie | Opakowanie Spironol 100 (20 tabletek po 100 mg) = 14,86 zł | 10 dni | 45,23 zł |
+| Goserelina | Reseligo, Zoladex, Xanderla | 1 ampułka co 4 tygodnie | 1 ampułka co 4 tygodnie | Jedna ampułka Reseligo⁴ = 172 zł² | 28 dni | 175,20 zł | 
+| Bikatulamid | Bicalutamide Accord | 50 - 100mg dziennie | 50 mg dziennie | Opakowanie Biculatamide Accord (28 tabletek po 50mg) = 60zł² | 28 dni | 65,23 zł |
 
 *Preparaty refundowane są oznaczone gwiazdką.
 ¹W celu obliczenia przybliżonego średniego kosztu na miesiąc konieczne było przyjęcie kilku założeń. Najczęstsze dawkowanie oznacza tutaj dawkę, która w naszym odczuciu jest spotykana najczęściej. W sytuacjach, w których istnieje kilka różnych form leku, koszt opakowania dotyczy najkorzystniejszego wariantu. Z racji dużych różnic indywidualnych w przyswajalności hormonów może się okazać, że rzeczywista cena na miesiąc będzie wyższa bądź niższa o ~25%.
 ²Cena uśredniona w oparciu o internetowe ceny apteczne.
 ³Do tak małego dawkowania należy podzielić tabletkę na 4 części. Przy podzieleniu tabletki na 8 części otrzymujemy 6,25mg, które również może być skuteczne w tłumieniu testosteronu. Jednakże podzielenie tabletki na tak małe i równe cząstki może być trudne - w celu ułatwienia można skruszyć tabletkę na pył przed podzieleniem lub brać lek raz na dwa dni (takie rozwiązanie jest możliwe dzięki długiemu czasowi pozostawania octanu cyproteronu w organizmie).  
+⁴ Cena podana dla preparatu Reseligo. Cena Xanderla jest zbliżona, cena Zoladex wyższa o 60 zł miesięcznie. Leki te są dostępne również w formie wolno działającej (LA, *long-acting*), wówczas zastrzyk wykonuje się raz na 12 tygodni. Z racji na wyższą cenę tych preparatów cena na miesiąc pozostaje ta sama.
 :::
 
 Osoby stosujące antyandrogeny mogą odstawić je zupełnie po orchidektomii (usunięciu jąder).
-
 
 
 ### Progesteron
@@ -354,10 +355,10 @@ Z racji na brak danych nie jesteśmy w stanie doradzić najlepszego sposobu stos
 Progesteron z reguły będzie stosowany zamiast antyandrogenu. Połączenie progesteronu z innym antyandrogenem jest możliwe, choć łączenie go z Androcurem (octanem cyproteronu) może zwiększać ryzyka uboczne obu leków.
 
 :::spoiler Porównanie szacunkowej ceny poszczególnych form progesteronu.
-| Handlowa nazwa | Zakres dawkowania | Najczęstsze dawkowanie¹ | Koszt opakowania¹ | Na ile dni starcza opakowanie?¹ | Koszt na miesiąc¹ | Uwagi |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Progesterone Besis | 100-200mg dziennie³ | 200 mg dziennie | Opakowanie Progesterone Bensis (30 tabletek po 100 mg) = 45 zł² | 15 dni | 91,32 zł | |
-| Luteina | 100-200 mg dziennie | 200mg dziennie | Opakowanie Luteina 50 (30 tabletek po 50 mg) = 16,71 zł | 7,5 dnia | 67,82 zł | |
+| Handlowa nazwa | Zakres dawkowania | Najczęstsze dawkowanie¹ | Koszt opakowania¹ | Na ile dni starcza opakowanie?¹ | Koszt na miesiąc¹ |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| Progesterone Besis | 100-200mg dziennie³ | 200 mg dziennie | Opakowanie Progesterone Bensis (30 tabletek po 100 mg) = 45 zł² | 15 dni | 91,32 zł |
+| Luteina | 100-200 mg dziennie | 200mg dziennie | Opakowanie Luteina 50 (30 tabletek po 50 mg) = 16,71 zł | 7,5 dnia | 67,82 zł |
 
 ¹W celu obliczenia przybliżonego średniego kosztu na miesiąc konieczne było przyjęcie kilku założeń. Najczęstsze dawkowanie oznacza tutaj dawkę, która w naszym odczuciu jest spotykana najczęściej. W sytuacjach, w których istnieje kilka różnych form leku, koszt opakowania dotyczy najkorzystniejszego wariantu. Z racji dużych różnic indywidualnych w przyswajalności hormonów może się okazać, że rzeczywista cena na miesiąc będzie wyższa bądź niższa o ~25%.
 ²Cena uśredniona w oparciu o internetowe ceny apteczne.
