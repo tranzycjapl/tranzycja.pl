@@ -278,20 +278,22 @@ Do efektów ubocznych żelu należy trądzik, podrażenienie i wysuszenie w miej
 
 :::spoiler Tabelka z porównaniem kosztu poszczególnych metod
 
-| Droga podania | Nazwa handlowa preparatu | Substancja czynna | Zakres dawkowania | Najczęstsze dawkowanie¹ | Opakowanie zawiera | Koszt opakowania¹ | Na ile dni starcza opakowanie?¹ | Koszt na miesiąc¹ | Uwagi |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Domięśniowo/podskórnie | Testosteronum Prolongatum Jelfa | Enantan testosteronu | 1 zastrzyk raz na 7-14 dni | 1 zastrzyk raz na 10 dni | 5 ampułek 1ml/100mg | 120zł² | 50 dni | 73,06 zł | |
-| | Testosterone Enantate EVER PHARMA | Enantan testosteronu | 1 zastrzyk raz na 14-21 dni | 1 zastrzyk raz na 18 dni | 5 ampułek 1ml/250mg | 240 zł² | 90 dni | 81,17 zł | |
-|  | Omnadren 250 | propionian testosteronu, fenylopropionian testosteronu, izokapronian testosteronu, dekanonian testosteronu | 1 zastrzyk raz na 14-28 dni | 1 zastrzyk  raz na 21 dni | 5 ampułek 1ml/250 mg | 120 zł² | 105 dni | 34,79 zł | |
-|  | Omnadren 250 (import równoległy) | propionian testosteronu, fenylopropionian testosteronu, izokapronian testosteronu, dekanonian testosteronu | 1 zastrzyk raz na 14-28 dni | 1 zastrzyk raz na 21 dni | 5 ampułek 1ml/250 mg | 80 zł² | 105 dni | 23,19 zł | Nie różni się niczym poza ceną od powyższego. |
-| | Nebido | Undecylan testosteronu | 1 zastrzyk raz na 10-14 tygodni | 1 zastrzyk raz na 12 tygodni | 1 ampułka 4ml/1000mg | 450 zł² | 84 dni | 163,07 zł | |
-| | Testosterone Undecanoate EVER PHARMA | Undecylan testosteronu | 1 zastrzyk raz na 10-14 tygodni | 1 zastrzyk raz na 12 tygodni | 1 ampułka 4ml/1000mg | 350 zł² | 84 dni | 126,83 zł | Zamiennik Nebido. Uważać, by w aptece nie pomylili z wyżej wspomnianym Testosterone Enantate EVER PHARMA. |
-| |Testosterone Undecanoate Besis | Undecylan testosteronu | 1 zastrzyk raz na 10-14 tygodni | 1 zastrzyk raz na 12 tygodni | 1 ampułka 4ml/1000mg | 280 zł² | 84 dni | 101,47 zł | Zamiennik Nebido. |
-| Przezskórnie | Androtop | Testosteron | 1-3 pompki dziennie | 2 pompki dziennie | 60 dawek po 20,25mg | 230 zł² | 30 dni | 233,37 zł | |
-|  | Testavan | Testosteron | 1-3 pompki dziennie | 2 pompki dziennie | 56 dawek x 23mg | 230 zł | 28 dni | 250,04 zł² | Chociaż dawka na pompkę minimalnie różni się zawartością od pompki w Androtopie, to można oba te leki traktować jako zamienniki. |
+| Droga podania | Nazwa handlowa preparatu | Substancja czynna | Zakres dawkowania | Najczęstsze dawkowanie¹ | Opakowanie zawiera | Koszt opakowania¹ | Na ile dni starcza opakowanie?¹ | Koszt na miesiąc¹ |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Domięśniowo/podskórnie | Testosteronum Prolongatum Jelfa | Enantan testosteronu | 1 zastrzyk raz na 7-14 dni | 1 zastrzyk raz na 10 dni | 5 ampułek 1ml/100mg | 120zł² | 50 dni | 73,06 zł |
+| | Testosterone Enantate EVER PHARMA | Enantan testosteronu | 1 zastrzyk raz na 14-21 dni | 1 zastrzyk raz na 18 dni | 5 ampułek 1ml/250mg | 240 zł² | 90 dni | 81,17 zł |
+|  | Omnadren 250 | propionian testosteronu, fenylopropionian testosteronu, izokapronian testosteronu, dekanonian testosteronu | 1 zastrzyk raz na 14-28 dni | 1 zastrzyk  raz na 21 dni | 5 ampułek 1ml/250 mg | 120 zł² | 105 dni | 34,79 zł |
+|  | Omnadren 250 (import równoległy) | propionian testosteronu, fenylopropionian testosteronu, izokapronian testosteronu, dekanonian testosteronu | 1 zastrzyk raz na 14-28 dni | 1 zastrzyk raz na 21 dni | 5 ampułek 1ml/250 mg | 80 zł² | 105 dni | 23,19 zł |
+| | Nebido | Undecylan testosteronu | 1 zastrzyk raz na 10-14 tygodni | 1 zastrzyk raz na 12 tygodni | 1 ampułka 4ml/1000mg | 450 zł² | 84 dni | 163,07 zł |
+| | Testosterone Undecanoate EVER PHARMA³ | Undecylan testosteronu | 1 zastrzyk raz na 10-14 tygodni | 1 zastrzyk raz na 12 tygodni | 1 ampułka 4ml/1000mg | 350 zł² | 84 dni | 126,83 zł |
+| |Testosterone Undecanoate Besis³ | Undecylan testosteronu | 1 zastrzyk raz na 10-14 tygodni | 1 zastrzyk raz na 12 tygodni | 1 ampułka 4ml/1000mg | 280 zł² | 84 dni | 101,47 zł | 
+| Przezskórnie | Androtop | Testosteron | 1-3 pompki dziennie | 2 pompki dziennie | 60 dawek po 20,25mg | 230 zł² | 30 dni | 233,37 zł |
+|  | Testavan⁴ | Testosteron | 1-3 pompki dziennie | 2 pompki dziennie | 56 dawek x 23mg | 230 zł | 28 dni | 250,04 zł² |
 
-¹W celu obliczenia przybliżonego średniego kosztu na miesiąc konieczne było przyjęcie kilku założeń. Najczęstsze dawkowanie oznacza tutaj dawkę, która w naszym odczuciu jest spotykana najczęściej. W sytuacjach, w których istnieje kilka różnych form leku, koszt opakowania dotyczy najkorzystniejszego wariantu. Z racji dużych różnic indywidualnych w przyswajalności hormonów może się okazać, że rzeczywista cena na miesiąc będzie wyższa bądź niższa o ~25%.
-²Cena uśredniona w oparciu o internetowe ceny apteczne.
+¹W celu obliczenia przybliżonego średniego kosztu na miesiąc konieczne było przyjęcie kilku założeń. Najczęstsze dawkowanie oznacza tutaj dawkę, która w naszym odczuciu jest spotykana najczęściej. W sytuacjach, w których istnieje kilka różnych form leku, koszt opakowania dotyczy najkorzystniejszego wariantu. Z racji dużych różnic indywidualnych w przyswajalności hormonów może się okazać, że rzeczywista cena na miesiąc będzie wyższa bądź niższa o ~25%.  
+²Cena uśredniona w oparciu o internetowe ceny apteczne.  
+³Zamiennik Nebido.  
+⁴Chociaż dawka na pompkę minimalnie różni się zawartością od pompki w Androtopie, to można oba te leki traktować jako zamienniki.  
 :::
 
 ### Inne leki
