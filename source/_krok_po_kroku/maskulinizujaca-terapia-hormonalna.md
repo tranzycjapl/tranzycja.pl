@@ -225,9 +225,10 @@ Używane w Polsce drogi przyjmowania testosteronu obejmują podawanie domięśni
 
 Testosteron w lekach nie występuje samodzielnie, ale w związku z estrami. Od długości estru zależy czas uwalniania się testosteronu, im jest on dłuższy, tym na dłużej wystarcza jedna dawka leku. W Polsce testosteron jest dostępny w trzech preparatach:
 
-- Testosteronum Prolongatum, potocznie prolka (enantan testosteronu): 100mg na ampułkę testosteronu raz na 1-2 tygodnie
-- Omnadren 250 (mieszanina 4 różnych estrów): 250mg na ampułkę raz na 2-4 tygodnie
-- Nebido (undecylan testosteronu):  1000mg na ampułkę raz na 10-14 tygodni (wyjątkiem jest drugi zastrzyk 6 tygodni od pierwszego), znacznie droższy od pozostałych
+- Testosteronum Prolongatum Jelfa, potocznie prolka (enantan testosteronu): 100mg na ampułkę testosteronu raz na 1-2 tygodnie
+- Testosterone Enanthate EVER Pharma (enantan testosteronu): 250 mg na ampułkę testosteronu raz na 2-3 tygodnie
+- Omnadren 250, potocznie prolka (mieszanina 4 różnych estrów): 250mg na ampułkę raz na 2-4 tygodnie
+- Nebido/Testosterone Undecanoate EVER Pharma/Testosterone Undecanoate Besis (undecylan testosteronu):  1000mg na ampułkę raz na 10-14 tygodni (wyjątkiem jest drugi zastrzyk 6 tygodni od pierwszego)
 
 Podawane dawkowanie jest orientacyjne. W zależności od uzyskiwanych poziomów testosteronu dane preparaty mogą być stosowane częściej lub rzadziej. 
 
@@ -243,8 +244,6 @@ Przy wieloletnim korzystaniu z zastrzyków domięśniowych może pojawić się r
 
 ### Testosteron w formie podskórnej
 
-**Dawkowanie:** 50 - 150 mg testosteronu na tydzień.
-
 Teoretycznie preparaty podskórne nie są dostępne w Polsce, gdyż zalecenia producenta nie przewidują takiej drogi podawania przy żadnym z opisywanych tu leków. Z tego względu endokrynolodzy rzadko kiedy będą wspominać o tej możliwości. **W praktyce wszystkie dostępne w Polsce preparaty domięśniowe mogą być również stosowane podskórnie.** Szczególnie dotyczy to Testosteronum Prolongatum z racji występowania w preparatach 100 mg, których dawkowanie łatwiej dostosować do wytycznych - przy zastrzykach podskórnych stosuje się mniejsze dawki niż przy zastrzykach domięśniowych. Taka metoda podawania testosteronu jest efektywna i bezpieczna.[^28][^29][^30] 
 
 Podskórna metoda podawania testosteronu cechuje się większą stabilnością poziomu testosteronu we krwi niż domięśniowa. Dla wielu osób może być też optymalna z racji bardziej przystępnego sposobu wykonywania zastrzyków: są łatwiejsze, mniej bolesne, igła może być wbita na znacznie mniejszą odległość niż w przypadku zastrzyków domięśniowych, a ryzyko powikłań przy zastrzyku jest mniejsze. Jest również znacząco tańsza niż metoda przezskórna. Z tych względów w ostatnich latach zyskuje ona na popularności, może być szczególnie pomocna u osób, u których wahania poziomów testosteronu wiążą się z nieprzyjemnymi efektami ubocznymi. Pierwszy zastrzyk powinien być wykonany pod obserwacją przeszkolonej osoby.
@@ -255,9 +254,9 @@ Do efektów ubocznych należy swędzenie, zaczerwienie i obrzęk w miejscu zastr
 
 ### Testosteron w formie przezskórnej 
 
-**Dawkowanie:** 50-100 mg żelu dziennie
+**Dawkowanie:** 2-4 pompki dziennie
 
-Żel dostępny jest w formie pompki dozującej (handlowa nazwa Androtop lub Testavan), kiedyś sprzedawane szaszetki z żelem (handlowa nazwa Testim) nie są już dostępne w Polsce. Powinien być rozprowadzony na skórze barku i ramion, nie należy stosować go w miejscach takich jak genitalia, twarz, czy piersi. Z racji codziennego podawania wiąże się z najstabilniejszymi poziomami testosteronu we krwi ze wszystkich metod podawania.
+Żel dostępny jest w formie pompki dozującej (handlowa nazwa Androtop lub Testavan). Powinien być rozprowadzony na skórze barku i ramion, nie należy stosować go w miejscach takich jak genitalia, twarz, czy piersi. Z racji codziennego podawania wiąże się z najstabilniejszymi poziomami testosteronu we krwi ze wszystkich metod podawania.
 
 Żel wysycha w ciągu paru minut i w takiej formie powinien być pozostawiony na skórze do 6  godzin — stąd producenci zalecają stosowanie go rano, po prysznicu. Jeśli wymaga tego sytuacja, czasami można pozwolić sobie na zmycie żelu wcześniej, powinien on jednak pozostać na skórze na co najmniej 2 godziny. Regularne wcześniejsze zmywanie żelu może wiązać się z ryzykiem obniżonego poziomu testosteronu.
 
@@ -278,16 +277,22 @@ Do efektów ubocznych żelu należy trądzik, podrażenienie i wysuszenie w miej
 
 
 :::spoiler Tabelka z porównaniem kosztu poszczególnych metod
-| Droga podania | Handlowa nazwa | Opakowanie zawiera | Typowe dawkowanie¹ | Opakowanie starcza na | Koszt opakowania² | Koszt na miesiąc |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Domięśniowo/podskórnie | Testosteronum Prolongatum Jelfa | 5 ampułek 100mg | 1 zastrzyk co 10 dni | 50 dni |  59,31zł  | 35,60 zł|
-|  | Omnadren 250 | 5 ampułek 250 mg | 1 zastrzyk co 21 dni  | 105 dni |  88,14 zł | 23,50 zł|
-| | Nebido | 1 ampułka 1000mg | 1 zastrzyk co 90 dni | 90 dni | ok. 400-500zł³ | ok. 133-166 zł| 
-| Przezskórnie | Androtop | 60 dawek x 20,25mg | 3 dawki raz dziennie | 20 dni |  248 zł  | 330 zł| 
 
-¹Typowe dawkowanie zakłada najczęściej spotykaną dawkę leku.  
-²Ceny opakowań zaczerpnięte z bazy leków [mp.pl](https://www.mp.pl/pacjent/leki/). W rzeczywistości ceny w aptekach mogą być wyższe o kilkanaście złoty. Stan na 1 listopada 2021 r.  
-³Ceny Nebido ulegają dużym wahaniom w zależności od apteki.
+| Droga podania | Nazwa handlowa preparatu | Substancja czynna | Zakres dawkowania | Najczęstsze dawkowanie¹ | Opakowanie zawiera | Koszt opakowania¹ | Na ile dni starcza opakowanie?¹ | Koszt na miesiąc¹ | Uwagi |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Domięśniowo/podskórnie | Testosteronum Prolongatum Jelfa | Enantan testosteronu | 1 zastrzyk raz na 7-14 dni | 1 zastrzyk raz na 10 dni | 5 ampułek 1ml/100mg | 120zł² | 50 dni |
+ 73,06 zł | |
+| | Testosterone Enantate EVER PHARMA | Enantan testosteronu | 1 zastrzyk raz na 14-21 dni | 1 zastrzyk raz na 18 dni | 5 ampułek 1ml/250mg | 240 zł² | 90 dni | 81,17 zł | |
+|  | Omnadren 250 | propionian testosteronu, fenylopropionian testosteronu, izokapronian testosteronu, dekanonian testosteronu | 1 zastrzyk raz na 14-28 dni | 1 zastrzyk  raz na 21 dni | 5 ampułek 1ml/250 mg | 120 zł² | 105 dni | 34,79 zł | |
+|  | Omnadren 250 (import równoległy) | propionian testosteronu, fenylopropionian testosteronu, izokapronian testosteronu, dekanonian testosteronu | 1 zastrzyk raz na 14-28 dni | 1 zastrzyk raz na 21 dni | 5 ampułek 1ml/250 mg | 80 zł² | 105 dni | 23,19 zł | Nie różni się niczym poza ceną od powyższego. |
+| | Nebido | Undecylan testosteronu | 1 zastrzyk raz na 10-14 tygodni | 1 zastrzyk raz na 12 tygodni | 1 ampułka 4ml/1000mg | 450 zł² | 84 dni | 163,07 zł | |
+| | Testosterone Undecanoate EVER PHARMA | Undecylan testosteronu | 1 zastrzyk raz na 10-14 tygodni | 1 zastrzyk raz na 12 tygodni | 1 ampułka 4ml/1000mg | 350 zł² | 84 dni | 126,83 zł | Zamiennik Nebido. Uważać, by w aptece nie pomylili z wyżej wspomnianym Testosterone Enantate EVER PHARMA. |
+| |Testosterone Undecanoate Besis | Undecylan testosteronu | 1 zastrzyk raz na 10-14 tygodni | 1 zastrzyk raz na 12 tygodni | 1 ampułka 4ml/1000mg | 280 zł² | 84 dni | 101,47 zł | Zamiennik Nebido. |
+| Przezskórnie | Androtop | Testosteron | 1-3 pompki dziennie | 2 pompki dziennie | 60 dawek po 20,25mg | 230 zł² | 30 dni | 233,37 zł | |
+|  | Testavan | Testosteron | 1-3 pompki dziennie | 2 pompki dziennie | 56 dawek x 23mg | 230 zł | 28 dni | 250,04 zł² | Chociaż dawka na pompkę minimalnie różni się zawartością od pompki w Androtopie, to można oba te leki traktować jako zamienniki. |
+
+¹W celu obliczenia przybliżonego średniego kosztu na miesiąc konieczne było przyjęcie kilku założeń. Najczęstsze dawkowanie oznacza tutaj dawkę, która w naszym odczuciu jest spotykana najczęściej. W sytuacjach, w których istnieje kilka różnych form leku, koszt opakowania dotyczy najkorzystniejszego wariantu. Z racji dużych różnic indywidualnych w przyswajalności hormonów może się okazać, że rzeczywista cena na miesiąc będzie wyższa bądź niższa o ~25%.
+²Cena uśredniona w oparciu o internetowe ceny apteczne.
 :::
 
 ### Inne leki
