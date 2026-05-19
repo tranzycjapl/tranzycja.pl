@@ -280,8 +280,7 @@ Do efektów ubocznych żelu należy trądzik, podrażenienie i wysuszenie w miej
 
 | Droga podania | Nazwa handlowa preparatu | Substancja czynna | Zakres dawkowania | Najczęstsze dawkowanie¹ | Opakowanie zawiera | Koszt opakowania¹ | Na ile dni starcza opakowanie?¹ | Koszt na miesiąc¹ | Uwagi |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Domięśniowo/podskórnie | Testosteronum Prolongatum Jelfa | Enantan testosteronu | 1 zastrzyk raz na 7-14 dni | 1 zastrzyk raz na 10 dni | 5 ampułek 1ml/100mg | 120zł² | 50 dni |
- 73,06 zł | |
+| Domięśniowo/podskórnie | Testosteronum Prolongatum Jelfa | Enantan testosteronu | 1 zastrzyk raz na 7-14 dni | 1 zastrzyk raz na 10 dni | 5 ampułek 1ml/100mg | 120zł² | 50 dni | 73,06 zł | |
 | | Testosterone Enantate EVER PHARMA | Enantan testosteronu | 1 zastrzyk raz na 14-21 dni | 1 zastrzyk raz na 18 dni | 5 ampułek 1ml/250mg | 240 zł² | 90 dni | 81,17 zł | |
 |  | Omnadren 250 | propionian testosteronu, fenylopropionian testosteronu, izokapronian testosteronu, dekanonian testosteronu | 1 zastrzyk raz na 14-28 dni | 1 zastrzyk  raz na 21 dni | 5 ampułek 1ml/250 mg | 120 zł² | 105 dni | 34,79 zł | |
 |  | Omnadren 250 (import równoległy) | propionian testosteronu, fenylopropionian testosteronu, izokapronian testosteronu, dekanonian testosteronu | 1 zastrzyk raz na 14-28 dni | 1 zastrzyk raz na 21 dni | 5 ampułek 1ml/250 mg | 80 zł² | 105 dni | 23,19 zł | Nie różni się niczym poza ceną od powyższego. |
