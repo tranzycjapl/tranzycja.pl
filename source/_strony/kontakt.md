@@ -11,7 +11,7 @@ Masz pytania lub pomysły którymi chcesz się podzielić? A może chcesz nas we
 
 ## Skontaktuj się z nami bezpiecznie
 
-Pamiętaj, że w przypadku korzystania z tracydyjnej poczty e-mail oraz innych popularnych komunikatorów, istnieje ryzyko, że wgląd do Twojej korespondencji uzyskają osoby trzecie. Jeśli Twoja wiadomość wymaga zachowania szczególnej poufności, możesz skorzystać z komunikatora Signal (+48732066641) bądź zaszyfrować wiadomość (np. e-mail) za pomocą PGP.
+Pamiętaj, że w przypadku korzystania z tracydyjnej poczty e-mail oraz innych popularnych komunikatorów, istnieje ryzyko, że wgląd do Twojej korespondencji uzyskają osoby trzecie. Jeśli Twoja wiadomość wymaga zachowania szczególnej poufności możesz zaszyfrować wiadomość (np. e-mail) za pomocą PGP.
 
 :::spoiler Nasz klucz publiczny PGP
 
@@ -77,7 +77,6 @@ ksXyRD1SkKilTDbNrQ==
 Pracujesz w mediach i chcesz z nami porozmawiać o naszym projekcie, tranzycji i transpłciowości, bądź poprosić o komentarz w innej sprawie?
 
 📧 Adres email: [kontakt@tranzycja.pl](mailto:kontakt@tranzycja.pl)  
-📞 Telefon: tel. [+48 732 066 641](tel:+48732066641)
 
 ---
 
