@@ -2,7 +2,7 @@
 tags: publikacje
 meta: 
     Autorzy: Dag Fajt
-    Korekta: Anna Wiatrowska, Julia Zając, Olesia Ivchenko
+    Korekta: Anna Wiatrowska, Jessica Mia Czerwińska, Julia Zając, Olesia Ivchenko
     
 ---
 
