@@ -172,7 +172,8 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 #### Warszawa: 
 
 - **Lambda Warszawa:** grupa spotkaniowa dla osób studenckich, grupa spotkaniowa dla osób bi+, grupa spotkaniowa dla seniorów LGBT+, grupa AA; [Facebook](https://www.facebook.com/lambda.warszawa), [Instagram](https://www.instagram.com/lambdawarszawa/), [strona internetowa](https://www.lambdawarszawa.org/), e-mail: warszawa@lambdawarszawa.org.  
-- **Fundacja Trans-Fuzja:** grupa wsparcia dla osób transpłciowych; [Facebook](https://www.facebook.com/FundacjaTransFuzja), [Instagram](https://www.instagram.com/trans.fuzja/), [strona internetowa](https://www.transfuzja.org/), e-mail: kontakt@transfuzja.org 
+- **Fundacja Trans-Fuzja:** grupa wsparcia dla osób transpłciowych; [Facebook](https://www.facebook.com/FundacjaTransFuzja), [Instagram](https://www.instagram.com/trans.fuzja/), [strona internetowa](https://www.transfuzja.org/), e-mail: kontakt@transfuzja.org
+- - **TG House:** grupa wsparcia dla rosyjskojęzycznych osób transpłciowych i niebinarnych; [Facebook](https://www.facebook.com/tghousebelarus), [Instagram](https://www.instagram.com/tghousebelarus), [strona internetowa](https://tbelarus.com/posts), Telegram: @tghousehelp 
 - **Trans Świetlica:** grupa towarzyska organizowane we współpracy z The Warsaw House Foundation; dostępna dla osób anglojęzycznych; [Facebook](https://www.facebook.com/transswietlica), [Instagram](https://www.instagram.com/transswietlica/). 
 - **Warszawska Transylwania:** grupa towarzyska organizowane we współpracy z Fundacją Serce Miasta; [Facebook](https://www.facebook.com/profile.php?id=61565147295439), [Instagram](https://www.instagram.com/warszawskatransylwania), e-mail: warszawskatransylwania@gmail.com 
 
