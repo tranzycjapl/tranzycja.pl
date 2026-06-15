@@ -2,7 +2,7 @@
 tags: publikacje
 meta:
     Autorzy: 'Dag Fajt'
-    Korekta: 'Anna Wiatrowska, Julia Zając, Olesia Ivchenko'
+    Korekta: 'Anna Wiatrowska, Jessica Mia Czerwińska, Julia Zając, Olesia Ivchenko'
 opublikowano: '2026-05-18 23:27:45'
 zaktualizowano: '2026-05-18 23:27:45'
 ---
