@@ -309,7 +309,7 @@ Poniżej znajdziecie tabelę porównująca kilkanaście znanych klinik:
 |Centrum Medyczne BIENIEK (dr. Jaremków) |Wrocław|	20 tys.|	Nie / Nie |	Okołootoczkowe, DI| 01.26 | 
 |Wilmed	(dr. Starościak) |Warszawa|	21 tys.|	? / Nie	|Okołootoczkowe (peri/keyhole)| 11.25 | 
 |Szpital na Klinach (dr. Górski) | Kraków |	15 tys.|	Nie / Nie	| Okołootoczkowe | 03.25 | 
-|Klinika Sienna (dr. Krajewski) | Kraków |	19 - 24 tys.|	Nie / ?	| Okołootoczkowe, DI | 05.26 | 
+|Sienna Clinic (dr. Krajewski) | Warszawa |	17 - 26 tys.|	Nie / Nie	| Keyhole, Peri, Lollipop, DI, T-anchorI | 06.26 | 
 |RP Clinic (dr. Pabiańczyk) | Kraków |	20 - 30 tys.|	Nie / Nie	| Okołootoczkowe, DI | 02.26 | 
 |Szpital św. Anny (dr. Kuźlik) | Piaseczno |	22 tys.|	? / ?	| Peri, DI | 10.25 | 
 |Art Medical Center (dr. Krajewski) | Szczecin |	20 tys.|	? / ?	| ? | 02.26 | 
