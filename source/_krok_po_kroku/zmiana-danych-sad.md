@@ -4,7 +4,7 @@ tags: krok po kroku, tranzycja prawna
 meta: 
     Autorzy: adw. Karolina Gierdal, Marek Urbaniak, Nina Kuta
     Korekta: Julia Zając
-zaktualizowano: '2025-06-10 12:00:00'
+zaktualizowano: '2026-08-15 12:00:00'
 ---
 
 # Jak zmienić oznaczenie płci w dokumentach? Poradnik do sądu 
@@ -78,8 +78,6 @@ Załączone opinie powinny jednoznacznie wskazywać osobę, której dotyczą. Je
 :::info
 Z przepisów postępowania cywilnego nie wynika, aby wystawione przez specjalistów opinie mogły utracić ważność z powodu upływu czasu. Pozostają one dokumentami ważnymi dla sądu, możesz więc posłużyć się opinią uzyskaną kilka lat wcześniej.  
 :::
-
-Do wniosku wystarczy załączyć skrócony odpis aktu urodzenia. Odpis zupełny przyda się, jeśli zmieniane były takie dane jak imię czy nazwisko.
 
 **Żadne procedury medyczne nie są konieczne, żeby zmienić oznaczenie płci.** Nie ma żadnego określonego czasu, przez jaki należy być w terapii hormonalnej, ani żadnego zabiegu chirurgicznego, który trzeba przejść. Choć w historii orzecznictwa zdarzało się, że sądy stawiały takie wymogi, to w chwili obecnej możliwe jest uzyskanie zmiany oznaczenia płci nawet bez żadnych interwencji medycznych, a wyłącznie z posiadanymi opiniami od seksuologów. W takich sytuacjach zachęcamy jednak o korzystanie z pomocy prawnika od początku całego procesu, tak by móc zabezpieczyć się na wypadek nieprzychylnego sędziego. 
 
