@@ -23,8 +23,8 @@ Niniejszy poradnik został przygotowany we współpracy z adw. Karoliną Gierdal
 
 ![Infografika prezentująca jak zmienić oznaczenie płci](https://tranzycja.pl//media/img/wzorwniosku-infografika.png)
 
-- Potrzebujesz mieć 18 lat, 100 zł, odpis swojego aktu urodzenia oraz opinię o niezgodności płciowej od psychologa oraz lekarza psychiatry / lekarza seksuologa. Jeśli masz mniej niż 18 lat, wniosek składają w twoim imieniu rodzice. Nie musisz przejść żadnej operacji czy być określony czas na hormonach. 
-- Z tymi dwiema opiniami możesz złożyć wniosek do sądu rejonowego właściwego dla twojego miejsca zamieszkania. Nasz wzór znajdziesz tutaj, [w wersji transmęskiej](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(on-jego)-tranzycjapl.docx) oraz [transżeńskiej](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(ona-jej)-tranzycjapl.docx). 
+- Potrzebujesz mieć 18 lat, 100 zł, odpis zupełny swojego aktu urodzenia oraz opinię o niezgodności płciowej od psychologa oraz lekarza psychiatry / lekarza seksuologa. Jeśli masz mniej niż 18 lat, wniosek składają w twoim imieniu rodzice. Nie musisz przejść żadnej operacji czy być określony czas na hormonach. 
+- Z tymi dwiema opiniami możesz złożyć wniosek do sądu rejonowego właściwego dla twojego miejsca zamieszkania. Nasz wzór znajdziesz tutaj, [w wersji transmęskiej](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(on-jego)-tranzycjapl.docx) oraz [transżeńskiej](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(ona-jej)-tranzycjapl.docx). Wersje dla osób niepełnoletnich dostępne poniżej. 
 - Przebieg postępowania w sądzie jest trudny do przewidzenia – może skończyć się bardzo szybko i bez rozprawy, może obejmować rozprawę, na której sąd zada ci proste pytania o twoją tożsamość, a w najgorszym wypadku obejmie również powołanie biegłych sądowych. 
 - Po wydaniu postanowienia musisz odczekać aż sąd wyśle postanowienie do urzędu stanu cywilnego, a USC nada ci nowy numer PESEL, potem składasz wniosek do USC o zmianę imienia (o ile nie zrobił tego sąd). Po zmianie imienia i PESEL-u możesz wystąpić o nowy dowód osobisty.
 
@@ -54,7 +54,6 @@ W większości sytuacji procedura zmiany oznaczenia płci **nie wymaga profesjon
 
 :::info
 - [Lambda Warszawa](https://www.lambdawarszawa.org/wsparcie#04_wsparcie_poradnictwoprawne), adres mailowy prawo@lambdawarszawa.org  
-- [Federacja Znaki Równości](https://znakirownosci.org.pl/kontakt/), adres mailowy pomoc.prawna@znakirownosci.org.pl (możliwa reprezentacja prawna w sprawie, ale trzeba odczekać w kolejce)  
 - [Miłość Nie Wyklucza](https://mnw.org.pl/prawo/), zgłoszenia przez stronę (możliwa reprezentacja prawna w sprawie, ale trzeba poczekać na otwarcie tury)  
 - [Fundacja Trans-Fuzja](https://www.transfuzja.org/pomoc), adres mailowy prawnik@transfuzja.org  
 :::
@@ -65,10 +64,10 @@ Zakres pomocy zależy od twoich potrzeb – na powyższe adresy możesz zwróci�
 
 By móc złożyć wniosek, musisz spełnić następujące wymogi: 
 
-- mieć powyżej 18 lat (przypadek osób niepełnoletnich jest opisany [w dalszej części poradnika](https://tranzycja.pl/krok-po-kroku/zmiana-danych-sad/#szczegolne-przypadki));  
 - posiadać dwie opinie zaświadczające o transpłciowości, jedną przygotowaną przez psychologa (psychologa-seksuologa,  psychologa klinicznego lub psychoseksuologa), a drugą przez lekarza ze specjalizacją w seksuologii lub psychiatrii – posiadanie tylko jednej z nich znacznie zwiększy prawdopodobieństwo powołania biegłego przez sąd;  
-- posiadać odpis aktu urodzenia (do uzyskania w urzędzie stanu cywilnego przez ePUAP lub osobiście);   
-- przeznaczyć 100 zł na opłatę przy składaniu wniosku (ten wymóg można obejść, jeśli do wniosku dołączy się wniosek o zwolnienie z kosztów, a sąd rozpatrzy go pozytywnie; przy takiej kwocie jest to jednak mało prawdopodobne).  
+- posiadać zupełny odpis aktu urodzenia (do uzyskania w urzędzie stanu cywilnego przez ePUAP lub osobiście);
+- przeznaczyć 100 zł na opłatę przy składaniu wniosku (ten wymóg można obejść, jeśli do wniosku dołączy się wniosek o zwolnienie z kosztów, a sąd rozpatrzy go pozytywnie; przy takiej kwocie jest to jednak mało prawdopodobne);
+- jeśli jesteś osobą niepełnoletnią, mieć akceptujących rodziców, którzy złożą wniosek w Twoim imieniu (szczegółowo opisane w dalszej części poradnika).
 
 Jeśli posiadasz dodatkową dokumentację medyczną (np. wyniki badań krwi, badań urologicznych/ginekologicznych, zaświadczenia od psychiatry) również możesz ją dołączyć, choć nie jest to konieczne. Badanie kariotypu jest już bardzo rzadko wymagane i nie ma potrzeby robić go na zapas. Jeżeli sędzia będzie domagać się przedstawienia go w czasie rozprawy, można odwołać się do braku takiego wymogu [w zaleceniach Polskiego Towarzystwa Seksuologicznego](https://pts-seksuologia.pl/images/ckeditor_photos/Grabski_PsychiatrPolOnlineFirstNr187.pdf_____5f7ad3b021cb6.pdf). 
 
@@ -100,6 +99,10 @@ W większych miastach może funkcjonować kilka sądów rejonowych. Ich właści
 [Wariant dla osób używających żeńskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(ona-jej)-tranzycjapl.docx)
 
 [Wariant dla osób używających męskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(on-jego)-tranzycjapl.docx)
+
+[Wariant dla osób niepełnoletnich używających żeńskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-dla-osoby-niepelnoletniej-(ona-jej)-tranzycjapl.docx)
+
+[Wariant dla osób niepełnoletnich używających męskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-dla-osoby-niepelnoletniej-(on-jego)-tranzycjapl.docx)
 :::
 
 Polecany przez nas wzór wniosku, zawierający wszystkie istotne wnioski, przygotowała adw. Karolina Gierdal, a konsultowany był z Grupą Prawną Stowarzyszenia Lambda Warszawa. Zawiera również wkład merytoryczny od adw. Mikołaja Świstowskiego i r. pr. Damiana Ruhma.  
@@ -108,13 +111,12 @@ Treść wniosku może być bardzo istotna dla przebiegu sprawy, stąd odradzamy 
 
 Wielu sędziów nie ma dobrego rozeznania w kwestii transpłciowości i z tego względu może zwyczajnie nie wiedzieć, jak prowadzić takie postępowanie czy jaka dokumentacja jest wystarczająca. Z tego względu szczególnie ważne jest powołanie się na dokumenty, które mogą pokierować sędziego w stronę szybszego załatwienia sprawy. Dwa najważniejsze to:  
 
-- [zalecenia Polskiego Towarzystwa Seksuologicznego](https://pts-seksuologia.pl/sites/strona/118/zalecenia-pts-dotyczace-opieki-nad-zdrowiem-doroslych-osob-transplciowych--stanowisko-panelu-ekspertow.), które umożliwiają wykazanie, że przeszło się przez poprawną diagnozę transseksualizmu i dodatkowe powoływanie biegłego nie jest konieczne;   
+- [zalecenia Polskiego Towarzystwa Seksuologicznego](https://pts-seksuologia.pl/sites/strona/118/zalecenia-pts-dotyczace-opieki-nad-zdrowiem-doroslych-osob-transplciowych--stanowisko-panelu-ekspertow.), które umożliwiają wykazanie, że przeszło się przez poprawną diagnozę transseksualizmu i dodatkowe powoływanie biegłego nie jest konieczne. Dla osób niepełnoletnich właściwe będą [odrębne zalecenia](tranzycja.pl/media/docs/standardy/Ramowe-zalecenia-dotyczace-procesu-opieki-nad-zdrowiem-nastoletnich-osob-transplciowych-i-niebinarnych-2025.pdf);   
 - [przewodnik dla sędziów przygotowany przez Rzecznika Praw Obywatelskich](https://bip.brpo.gov.pl/sites/default/files/2024-02/Postepowania_w_sprawach_o_uzgodnienie_plci_Przewodnik_www.pdf), zawierający jednoznaczne rekomendacje dla sądów, by nie dopuszczały dowodu z opinii biegłego i rozpatrywały wnioski na posiedzeniu niejawnym, bez wyznaczania rozprawy. 
 
 Przewodnik wydany przez biuro RPO zachował aktualność w wielu aspektach, mimo zmiany trybu z procesowego na nieprocesowy. Postępowanie dowodowe odbywa się tak samo i takie same są przesłanki wydania postanowienia na posiedzeniu niejawnym, więc rekomendacje RPO są wciąż ważne.  
 
 Czas trwania postępowania można również skrócić, składając wniosek o rozpoznanie sprawy na posiedzeniu niejawnym. Jeśli sąd wyrazi na to zgodę, wówczas nie odbywają się żadne rozprawy i nigdzie nie musisz jechać – sąd listownie przyśle postanowienie. Takie rozwiązanie wymaga jednak dobrej woli sędziego.  
-
 Nie polecamy składania wniosku o przyznanie pełnomocnika z urzędu. Jeśli nie dogadasz się wcześniej z doświadczoną osobą, która zgodzi się przyjąć tę rolę, możesz dostać przypadkowego prawnika, który nie będzie w ogóle rozumiał procedury.  
 
 Wzór wniosku zawiera również wniosek o zmianę imienia – jest to nowe rozwiązanie, do którego sądy czasami się przychylają. Jeśli sąd się na to zdecyduje, wówczas zmniejsza się skala formalności po wydaniu postanowienia – Urząd Stanu Cywilnego zmieni imię razem z oznaczeniem płci, dzięki czemy nie trzeba będzie składać odrębnego wniosku i czekać na jego rozpatrzenie.  
@@ -295,9 +297,11 @@ Choć nie ma możliwości uniknięcia postępowania sądowego, to istnieją przy
 
 ### Osoby niepełnoletnie 
 
-Przed ukończeniem 18. roku życia nie można samodzielnie złożyć wniosku. W postępowaniu osobę muszą reprezentować rodzice i to oni mogą złożyć wniosek za swoje dziecko. Wzór wniosku będzie podobny, a różnić będzie się tylko tym, że w odpowiednim miejscu zaznaczone zostanie, że w imieniu dziecka działają rodzice (lub rodzic). Dokument będzie też musiał zostać podpisany przez rodzica. Jeśli korzystacie z profesjonalnej pomocy prawnej, to rodzice będą udzielać pełnomocnictwa. 
+Przed ukończeniem 18. roku życia nie można samodzielnie złożyć wniosku. W postępowaniu osobę muszą reprezentować rodzice i to oni mogą złożyć wniosek za swoje dziecko. Sam wzór wniosku będzie podobny - główne różnice we wzorze dla osób niepełnoletnich to zaznaczenie, że wniosek składają rodzice w imieniu dziecka, oparcie się na zaleceniach seksuologicznych dotyczących konkretnie osób niepełnoletnich oraz dodatkowa część uzasadnienia tłumacząca sędziemu zjawisko transpłciowości osób niepełnoletnich. 
 
-Powyższa procedura jest stosunkowo nowa, dopiero od 2019 r. sądy zaczęły orzekać w sprawach dotyczących osób niepełnoletnich. Z tego względu **zdecydowanie zalecamy skorzystanie z pomocy prawnika zorientowanego w sprawach o zmianę oznaczenia płci**.
+[Wariant dla osób niepełnoletnich używających żeńskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-dla-osoby-niepelnoletniej-(ona-jej)-tranzycjapl.docx)
+
+[Wariant dla osób niepełnoletnich używających męskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-dla-osoby-niepelnoletniej-(on-jego)-tranzycjapl.docx)
 
 Zmiana danych u osoby niepełnoletniej będzie prawdopodobnie niemożliwa bez wspierających rodziców, przede wszystkim z racji konieczności posiadania odpowiedniej dokumentacji medycznej (niemożliwej do uzyskania bez zgody rodzica). W sytuacjach, w których jeden rodzic zgadza się na postępowanie, a drugi nie, zmiana oznaczenia płci nadal jest możliwa, ale może być trudniejsza – rekomendujemy w takich sytuacjach wcześniejszy kontakt z prawnikiem.  
 
@@ -611,7 +615,9 @@ Poniższe wzory zostały przygotowane przez adw. Karolinę Gierdal oraz konsulto
 #### Wzór wniosku o sprostowanie aktu urodzenia
 
 - [Wariant dla osób używających męskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(on-jego)-tranzycjapl.docx)  
-- [Wariant dla osób używających żeńskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(ona-jej)-tranzycjapl.docx)  
+- [Wariant dla osób używających żeńskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-(ona-jej)-tranzycjapl.docx)
+- [Wariant dla osób niepełnoletnich używających żeńskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-dla-osoby-niepelnoletniej-(ona-jej)-tranzycjapl.docx)
+- [Wariant dla osób niepełnoletnich używających męskich form gramatycznych](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-zmiane-oznaczenia-plci-dla-osoby-niepelnoletniej-(on-jego)-tranzycjapl.docx)
 
 #### Wzory w przypadkach szczególnych 
 
@@ -625,5 +631,5 @@ Poniższe wzory zostały przygotowane przez adw. Karolinę Gierdal oraz konsulto
 [Wzór wniosku o doręczenie prawomocnego odpisu postanowienia](https://tranzycja.pl/media/docs/wzory/wzor-wniosku-o-doreczenie-prawomocnego-odpisu-postanowienia.docx)  
 - [Wzór pełnomocnictwa do doręczeń](https://tranzycja.pl/media/docs/wzory/wzor-pełnomocnictwa-do-doreczen.docx)  
  
-Powyższe wzory można ściągnąć również poprzez [dedykowany folder na GoogleDrive](https://drive.google.com/drive/u/0/folders/1pHwR5KFiLUSdHJjXwSzWzkB2Rq5z02ly). 
+Powyższe wzory można ściągnąć również poprzez [dedykowany folder na GoogleDrive](https://drive.google.com/drive/u/0/folders/1pHwR5KFiLUSdHJjXwSzWzkB2Rq5z02ly). We wszystkich powyższych wzorach widoczne powinny być komentarze adw. Karoliny Gierdal pomagające w ich uzupełnieniu. Jeśli komentarze nie są widoczne, sprawdź ustawienia swojego edytora tekstu lub użyj wersji na GoogleDrive. 
  
