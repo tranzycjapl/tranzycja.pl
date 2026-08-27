@@ -19,7 +19,7 @@ Poniżej znajdziesz listę organizacji zapewniających wsparcie osobom transpłc
 
 Lista obejmuje organizacje działające na rzecz osób LGBT+, jak i te, które skupiają się na innych grupach (np. osobach w kryzysie bezdomności), ale robią to w sposób transprzyjazny. 
 
-W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjami, które je zapewniają, lista odzwierciedla stan na dzień jej powstania – 27.04.2026 r. Jeśli jakiekolwiek informacje uległy dezaktualizacji, bardzo prosimy o kontakt na e-mail: kontakt@tranzycja.pl 
+W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjami, które je zapewniają, lista odzwierciedla stan na moment jej powstania – sierpień 2026 r. Jeśli jakiekolwiek informacje uległy dezaktualizacji, bardzo prosimy o kontakt na e-mail: kontakt@tranzycja.pl 
 
 ## Pomoc psychologiczna  
 
