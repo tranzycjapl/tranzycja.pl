@@ -296,24 +296,24 @@ Poniżej znajdziecie tabelę porównująca kilkanaście znanych klinik:
 
 | Nazwa kliniki              | Miasto | Koszt     | Wymagania: HRT / Ukończone 18 lat |  Wykonywane cięcia | Data ostatniej aktualizacji danych |
 | -------------------------- | ------  | --------- | ------------------------------------------ | ----------------- | ----------------- |
-|UniEstethica (Dr Libondi) | Kraków | 21 tys. | Tak / Tak | Keyhole, Peri, Lollipop/Extended Peri, DI| 11.25 |
-|Solumed (Dr Dydymski)| Poznań | 25 - 28 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor, DI | 02.26 | 
-|Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	17 tys.| Tak / Nie |	Okołootoczkowe, DI | 03.26 |
+|Art Medical Center (dr. Krajewski) | Szczecin |	20 tys.|	? / ?	| ? | 02.26 | 
+|Centrum Medyczne Bieńkowski|	Bydgoszcz |	21 tys.|	Tak / Nie |Okołootoczkowe, DI| 07.24 | 
+|Centrum Medyczne BIENIEK (dr. Jaremków) |Wrocław|	20 tys.|	Nie / Nie |	Okołootoczkowe, DI| 01.26 | 
 |Gyneka (Szpital św. Róży, Dr Szepieniec)|	Kraków|	18 - 20 tys.|	Nie / Tak	|Okołootoczkowe, T-anchor| 04.25 | 
 |Klinika Lembas (Dr Lembas)| Zalesie Górskie (Warszawa) |	32 tys. |	Nie / Tak*	|DI| 05.26 | 
 |Klinika Timeless (Dr Jaworowski)|	Warszawa|	30 tys.|	Nie / Nie|	Okołootoczkowe, DI| 04.26 |
 |Klinika Artura Zawisza (Dr Zawisz) |	Kraków|	25 tys.|	? / Tak	|Okołootoczkowe, T-anchor, Lollipop| 05.25 | 
-|NOA Clinic	|Wrocław|	19 tys.|	Tak / Tak |	Okołootoczkowe| 08.25 | 
 |Medimel |Szczecin|	24 - 30 tys. | ?/Tak	| Okołootoczkowe| 01.26 | 
-|Centrum Medyczne Bieńkowski|	Bydgoszcz|	21 tys.|	Tak / Nie |Okołootoczkowe, DI| 07.24 | 
-|Centrum Medyczne BIENIEK (dr. Jaremków) |Wrocław|	20 tys.|	Nie / Nie |	Okołootoczkowe, DI| 01.26 | 
-|Wilmed	(dr. Starościak) |Warszawa|	21 tys.|	? / Nie	|Okołootoczkowe (peri/keyhole)| 11.25 | 
-|Szpital na Klinach (dr. Górski) | Kraków |	15 tys.|	Nie / Nie	| Okołootoczkowe | 03.25 | 
-|Sienna Clinic (dr. Krajewski) | Warszawa |	17 - 26 tys.|	Nie / Nie	| Keyhole, Peri, Lollipop, DI, T-anchorI | 06.26 | 
+|NOA Clinic	|Wrocław|	19 tys.|	Tak / Tak |	Okołootoczkowe| 08.25 | 
+|Rajska (Dr Pobiedzińska i Dr Moszonkowski) | Wrocław |	17 tys.| Tak / Nie |	Okołootoczkowe, DI | 03.26 |
 |RP Clinic (dr. Pabiańczyk) | Kraków |	20 - 30 tys.|	Nie / Nie	| Okołootoczkowe, DI | 02.26 | 
+|SCM Center (dr. Górski) | Kraków | 18 tys.| Nie / Nie | Keyhole, okołootoczkowe, DI | 09.26 | 
+|Sienna Clinic (dr. Krajewski) | Warszawa |	17 - 26 tys.|	Nie / Nie	| Keyhole, Peri, Lollipop, DI, T-anchor | 06.26 | 
+|Solumed (Dr Dydymski)| Poznań | 25 - 28 tys. (niższa cena za metody bezbliznowe)| Nie / Nie | Keyhole, Peri, Lollipop, T-anchor, DI | 02.26 | 
+|Szpital na Klinach (dr. Górski) | Kraków |	15 tys.|	Nie / Nie	| Okołootoczkowe | 03.25 | 
 |Szpital św. Anny (dr. Kuźlik) | Piaseczno |	22 tys.|	? / ?	| Peri, DI | 10.25 | 
-|Art Medical Center (dr. Krajewski) | Szczecin |	20 tys.|	? / ?	| ? | 02.26 | 
-
+|UniEstethica (Dr Libondi) | Kraków | 21 tys. | Tak / Tak | Keyhole, Peri, Lollipop/Extended Peri, DI| 11.25 |
+|Wilmed	(dr. Starościak) |Warszawa|	21 tys.|	? / Nie	|Okołootoczkowe (peri/keyhole)| 11.25 | 
 :::warning
 Zwróć uwagę na ostatnią aktualizację danych — z czasem ceny operacji mogą się zmieniać. Jeśli ceny zawarte powyżej nie są już aktualne, odezwij się do nas na kontakt@tranzycja.pl z odpowiednią informacją. 
 
