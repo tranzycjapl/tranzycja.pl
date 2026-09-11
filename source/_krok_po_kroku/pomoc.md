@@ -123,7 +123,11 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 #### Gdańsk: 
 
-- **Tolerado:** grupa wsparcia dla osób transpłciowych, grupa wsparcia dla osób LGBTQIA+ w spektrum autyzmu, grupa wsparcia dla młodzieży w wieku 15–25 lat; [Facebook](https://www.facebook.com/toleradostowarzyszenie), [Instagram](https://www.instagram.com/stowarzyszenie_tolerado/), [strona internetowa](https://tolerado.org/), e-mail: https://tolerado.org
+- **Tolerado:** grupa wsparcia dla osób transpłciowych i niebinarnych, grupa towarzyska dla osób transpłciowych, grupa wsparcia dla wszystkich osób LGBTQ+, grupa integracyjno-rozwojowa dla osób LGBTQ+ w przedziale wiekowym 15-25, Grupa *Tęczowe Spektrum* dla osób LGBTQ+ w spektrum autyzmu/ADHD, rupa wsparcia dla osób LGBTQIA+ w spektrum autyzmu, grupa wsparcia dla osób aseksualnych, grupa wsparcia dla nastoletnich osóbb LGBTQ+ (wiek 10–15 lat),  [Facebook](https://www.facebook.com/toleradostowarzyszenie), [Instagram](https://www.instagram.com/stowarzyszenie_tolerado/), [strona internetowa](https://tolerado.org/), e-mail: tolerado@tolerado.org
+
+#### Gdynia:
+
+- **Ośrodek Holis-Tera:** grupa wsparcia dla dorosłych osób LGBT+. [Facebook](https://www.facebook.com/holis.tera.osrodek), [strona internetowa](https://holis-tera.pl/oferta), zapisy przez [formularz](https://holis-tera.pl/kontakt/) lub adres e-mail: kontakt@holis-tera.pl.
 
 #### Łódź: 
 
@@ -137,6 +141,7 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 #### Katowice: 
 
+- **Kłirowa Grupa Wsparcia:** grupa samopomocowa dla osób queerowych; [Instagram](https://www.instagram.com/klirowa_grupa.wsparcia/).
 - **Stowarzyszenie Tęczówka:** grupa wsparcia dla osób transpłciowych; współorganizowana Fundację Trans-Fuzja; [Facebook](https://www.facebook.com/stowarzyszenie.teczowka), [Instagram](https://www.instagram.com/teczowkaorgpl), [strona internetowa](https://teczowka.org.pl/), e-mail: kontakt@teczowka.org.pl 
 
 #### Kielce: 
@@ -240,7 +245,7 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 
 #### Gdańsk: 
 - **Tęczowy Port UG:** organizacja osób LGBT+ na Uniwersytecie Gdańskim; [Facebook](https://www.facebook.com/TeczowyPortUG/), [Instagram](https://www.instagram.com/teczowyportug/), e-mail: teczowyportug@gmail.com 
-- **Tolerado:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/toleradostowarzyszenie), [Instagram](https://www.instagram.com/stowarzyszenie_tolerado/), [strona internetowa](https://tolerado.org/), e-mail: https://tolerado.org/kontakt/ 
+- **Tolerado:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/toleradostowarzyszenie), [Instagram](https://www.instagram.com/stowarzyszenie_tolerado/), [strona internetowa](https://tolerado.org/), e-mail: tolerado@tolerado.org
 
 #### Kalisz: 
 
@@ -319,9 +324,10 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 
 ### Ogólnopolskie: 
 
-- **Fundacja Trans-Fuzja:** grupa wsparcia dla rodziców i bliskich osób transpłciowych. [Facebook](https://www.facebook.com/FundacjaTransFuzja), [Instagram](https://www.instagram.com/trans.fuzja/), [strona internetowa](https://www.transfuzja.org/), email: transfuzjaonline@transfuzja.org. 
+- **Fundacja Trans-Fuzja:** internetowa grupa wsparcia dla rodziców i bliskich osób transpłciowych. [Facebook](https://www.facebook.com/FundacjaTransFuzja), [Instagram](https://www.instagram.com/trans.fuzja/), [strona internetowa](https://www.transfuzja.org/), email: transfuzjaonline@transfuzja.org. 
 - **Grupa rodziców transpłciowych dzieci na FB:** grupa służąca wymianie informacji oraz wsparciu rodziców, którzy właśnie dowiedzieli się o transpłciowości. Zapisy przez adres kontakt@trans-parent.pl lub kontakt ze Stowarzyszeniem My, Rodzice lub Fundacją Transpłciowość w Rodzinie. 
-- **Stowarzyszenie My, Rodzice:** grupy spotkaniowe rodziców dzieci LGBT+ w Łodzi, Warszawie, Katowicach, Rybniku, Lublinie, Białymstoku, Toruniu, Krakowie, Szczecinie, Poznaniu, Wrocławiu, a także spotkania online. Prowadzi cykl warsztatów dla rodziców Akademia Zaangażowanego Rodzica. Zapewnia indywidualne konsultacje online/telefoniczne dla rodziców. [Facebook](https://www.facebook.com/myrodziceosobLGBTQIA/), [Instagram](https://www.instagram.com/myrodzice/), [strona internetowa](https://myrodzice.org/), email: info@myrodzice.org 
+- **Stowarzyszenie My, Rodzice:** grupy spotkaniowe rodziców dzieci LGBT+ w Łodzi, Warszawie, Katowicach, Rybniku, Lublinie, Białymstoku, Toruniu, Krakowie, Szczecinie, Poznaniu, Wrocławiu, a także spotkania online. Prowadzi cykl warsztatów dla rodziców Akademia Zaangażowanego Rodzica. Zapewnia indywidualne konsultacje online/telefoniczne dla rodziców. [Facebook](https://www.facebook.com/myrodziceosobLGBTQIA/), [Instagram](https://www.instagram.com/myrodzice/), [strona internetowa](https://myrodzice.org/), email: info@myrodzice.org
+- **Tolerado:** internetowa grupa wsparcia dla rodziców osób LGBTQIA+.[Facebook](https://www.facebook.com/toleradostowarzyszenie), [Instagram](https://www.instagram.com/stowarzyszenie_tolerado/), [strona internetowa](https://tolerado.org/), e-mail: tolerado@tolerado.org
 - **Trans-Parent:** nieformalna sieć lokalnych grup stacjonarnych dla rodziców transpłciowych dzieci; lista dostępna na [stronie internetowej](https://trans-parent.pl/grupy-lokalne/). 
 
 ### Lokalne: 
