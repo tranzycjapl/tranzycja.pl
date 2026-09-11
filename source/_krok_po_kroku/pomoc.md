@@ -123,7 +123,7 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 #### Gdańsk: 
 
-- **Tolerado:** grupa wsparcia dla osób transpłciowych i niebinarnych, grupa towarzyska dla osób transpłciowych, grupa wsparcia dla wszystkich osób LGBTQ+, grupa integracyjno-rozwojowa dla osób LGBTQ+ w przedziale wiekowym 15-25, Grupa *Tęczowe Spektrum* dla osób LGBTQ+ w spektrum autyzmu/ADHD, rupa wsparcia dla osób LGBTQIA+ w spektrum autyzmu, grupa wsparcia dla osób aseksualnych, grupa wsparcia dla nastoletnich osóbb LGBTQ+ (wiek 10–15 lat),  [Facebook](https://www.facebook.com/toleradostowarzyszenie), [Instagram](https://www.instagram.com/stowarzyszenie_tolerado/), [strona internetowa](https://tolerado.org/), e-mail: tolerado@tolerado.org
+- **Tolerado:** grupa wsparcia dla osób transpłciowych i niebinarnych, grupa towarzyska dla osób transpłciowych, grupa wsparcia dla wszystkich osób LGBTQ+, grupa integracyjno-rozwojowa dla osób LGBTQ+ w przedziale wiekowym 15-25, Grupa *Tęczowe Spektrum* dla osób LGBTQ+ grupa wsparcia dla osób aseksualnych, grupa wsparcia dla nastoletnich osób LGBTQ+ (wiek 10–15 lat).  [Facebook](https://www.facebook.com/toleradostowarzyszenie), [Instagram](https://www.instagram.com/stowarzyszenie_tolerado/), [strona internetowa](https://tolerado.org/), e-mail: tolerado@tolerado.org
 
 #### Gdynia:
 
