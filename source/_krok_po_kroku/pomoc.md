@@ -306,7 +306,7 @@ Poniższe organizacje regularnie organizują wydarzenia o tematyce queerowej lub
 - **ADA Puławska:** niezależne centrum kulturowo-aktywistyczne; [Facebook](https://www.facebook.com/adapulawska), [Instagram](https://www.instagram.com/ada__pulawska/), [strona internetowa](https://adapulawska.org/), e-mail: kontakt@adapulawska.org 
 - **NeuroQueer:** coroczny bezpłatny obóz dla neuroatypowych osób queerowych; [Instagram](https://www.instagram.com/neuroqueer.pl/). 
 - **Queerowe Kółko Szydełkowania:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/p/Queerowe-K%C3%B3%C5%82ko-Szyde%C5%82kowania-100082744617895/), [Instagram](https://www.instagram.com/queerowekolkoszydelkowania), e-mail: queeroweszydelkowanie@gmail.com
-- **Queerowy Ruch Akademicki QRA PW:** organizacja osób LGBT+ na Politechnice Warszawskiej; [Facebook](https://www.facebook.com/QRAPW/), [Instagram](https://www.instagram.com/qra_pw/), e-mail: kontakt@queer.uw.edu.pl 
+- **Queerowy Ruch Akademicki QRA PW:** organizacja osób LGBT+ na Politechnice Warszawskiej; [Facebook](https://www.facebook.com/QRAPW/), [Instagram](https://www.instagram.com/qra_pw/), e-mail: qra.pw@proton.me
 - **QueerUW:** organizacja osób LGBT+ na Uniwersytecie Warszawskim; [Facebook](https://www.facebook.com/queeruw/?locale=pl_PL), [Instagram](https://www.instagram.com/queer_uw/), e-mail: kontakt@queer.uw.edu.pl 
 - **The Warsaw House Foundation:** wydarzenia integracyjne; [Facebook](https://www.facebook.com/thewarsawhouse), [Instagram](https://www.instagram.com/thewarsawhouse), [strona internetowa](https://warsawhouse.org/), e-mail: info@warsawhouse.org 
 
