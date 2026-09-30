@@ -1,20 +1,17 @@
 ---
-title: '---'
+title: Jak zrobić sobie zastrzyk? Poradnik do iniekcji podskórnych i domięśniowych V2
 
 ---
 
-\-\--
-
-kolejnosc: 61
-
+---
+kolejnosc: 80
+zaktualizowano: '2026-09-30 12:00:00'
 tags: krok po kroku, tranzycja medyczna, terapia hormonalna
-
-meta:
-Autorzy: otalia, Nina, Kasia, Tash
-Redakcja i korekta: Julia, Agnieszka
-Ilustracje: Leonard Dutkiewicz
-
-\-\--
+meta: 
+    Autorzy: otalia, Nina, Kasia, Tash
+    Redakcja i korekta: Julia, Agnieszka
+    Ilustracje: Leonard Dutkiewicz
+---
 
 # Jak zrobić sobie zastrzyk? Poradnik do iniekcji podskórnych i domięśniowych
 
@@ -23,7 +20,7 @@ należy do niego kupić, jak się przygotować do iniekcji i wreszcie -- jak wł
 
 Stworzyliśmy także serię materiałów wideo, w których pokazujemy, jak wykonać zastrzyki na sobie.
 
-**Jeśli szukasz poradnika do konkretnej metody, najlepiej jest przeskoczyć bezpośrednio do sekcji na temat iniekcji [domięśniowej](https://docs.google.com/document/d/1xecE8v1mnFodJ6ub_GfX8_4UVrGUhRqSplG9UvlmE9U/edit#zastrzyk-domiesniowy) lub [podskórnej](https://docs.google.com/document/d/1xecE8v1mnFodJ6ub_GfX8_4UVrGUhRqSplG9UvlmE9U/edit#zastrzyk-podskorny).**
+**Jeśli szukasz poradnika do konkretnej metody, najlepiej jest przeskoczyć bezpośrednio do sekcji na temat iniekcji [domięśniowej](#zastrzyk-domiesniowy) lub [podskórnej](#zastrzyki-podskorne).**
 
 ![Ilustracja tytułowa](<https://tranzycja.pl/media/img/zastrzyki/ilustracje-zastrzyki-tytulowa.png>)
 
@@ -259,7 +256,7 @@ iniekcji](#wyznaczanie-miejsca-wklucia-domiesniowego).
 
 1.  **Umyj dokładnie ręce wodą z mydłem i zdezynfekuj je.**
 2.  Przygotuj odpowiednią ilość leku, zgodnie ze zleceniem lekarza (np. 1 ampułka 1 ml), oraz potrzebny sprzęt.
-3.  Nabierz preparat z [ampułki](https://docs.google.com/document/d/1xecE8v1mnFodJ6ub_GfX8_4UVrGUhRqSplG9UvlmE9U/edit#nabieranie-z-ampulki) lub [fiolki](https://docs.google.com/document/d/1xecE8v1mnFodJ6ub_GfX8_4UVrGUhRqSplG9UvlmE9U/edit#nabieranie-z-fiolki) (szczegóły w odpowiedniej sekcji).
+3.  Nabierz preparat z [ampułki](#nabieranie-z-ampulki) lub [fiolki](#nabieranie-z-fiolki) (szczegóły w odpowiedniej sekcji).
 4.  Wybierz konkretny punkt do wkłucia -- **lepiej teraz, niż trzymając strzykawkę w rękach**. Kiedy go znajdziesz, odkaź go wacikiem nasączonym alkoholem. Pozwól wyparować preparatowi do odkażania -- wkłucia w mokrą skórę są nieco bardziej bolesne, a także nie należy wprowadzać alkoholu do wkłucia.
 5.  Przygotuj się do wkłucia. To może być najtrudniejszy moment, więc weź głęboki oddech i zbierz siły. Niektóre osoby lubią puścić sobie muzykę lub rozmawiać, robiąc zastrzyk.
 6.  Zdejmij zabezpieczenie z igły. Przed wkłuciem nie odkładaj już strzykawki na stół i uważaj, by nie dotknąć igły.
@@ -446,11 +443,11 @@ Poniżej znajdziesz nasz wideoporadnik pokazujący, jak wykonać zastrzyk podsk�
 :::spoiler Opis wykonania zastrzyku podskórnego
 
 **Przed wykonaniem zastrzyku [wybierz odpowiednie miejsce
-iniekcji](https://docs.google.com/document/d/1xecE8v1mnFodJ6ub_GfX8_4UVrGUhRqSplG9UvlmE9U/edit#wyznaczanie-miejsca-wklucia-podskornego).**
+iniekcji](#wyznaczanie-miejsca-wklucia-podskornego).**
 
 1.  **Umyj dokładnie ręce wodą z mydłem i zdezynfekuj je.**
 2.  Przygotuj odpowiednią ilość leku, zgodnie ze zleceniem lekarza (np. 1 ampułka 1 ml), oraz potrzebny sprzęt.
-3.  Nabierz preparat z [ampułki](https://docs.google.com/document/d/1xecE8v1mnFodJ6ub_GfX8_4UVrGUhRqSplG9UvlmE9U/edit#nabieranie-z-ampulki) lub [fiolki](https://docs.google.com/document/d/1xecE8v1mnFodJ6ub_GfX8_4UVrGUhRqSplG9UvlmE9U/edit#nabieranie-z-fiolki) (szczegóły w odpowiedniej sekcji).
+3.  Nabierz preparat z [ampułki](#nabieranie-z-ampulki) lub [fiolki](#nabieranie-z-fiolki) (szczegóły w odpowiedniej sekcji).
 4.  **Wybierz konkretny punkt do wkłucia -- lepiej teraz, niż trzymając strzykawkę w rękach.** Kiedy go znajdziesz, odkaź go wacikiem nasączonym alkoholem. Pozwól wyparować preparatowi do odkażania -- wkłucia w mokrą skórę są nieco bardziej bolesne, a także nie należy wprowadzać alkoholu do wkłucia.
 5.  **Przygotuj się do wkłucia.** To może być najtrudniejszy moment, więc weź głęboki oddech i zbierz siły. Niektóre osoby lubią puścić sobie muzykę lub rozmawiać, robiąc zastrzyk.
 6.  Zdejmij zabezpieczenie z igły. **Przed wkłuciem nie odkładaj już strzykawki na stół i uważaj, by nie dotknąć igły.**
@@ -584,7 +581,7 @@ Standardowe dawkowania i opisy preparatów w zastrzykach znajdziesz w naszych ar
 
 :::spoiler Przez lata robił_m iniekcje domięśniowe w pośladek, a mimo to nie spotkało mnie nic złego. Czemu są tak problematyczne?
 
-Uszkodzenia nerwu kulszowego nie są częstym powikłaniem, wiele osób może przez całe życie wykonywać iniekcje domięśniowe w pośladek i ich nie doznać. Jednakże nawet małe ryzyko warto ograniczać, gdy związane jest z poważnymi konsekwencjami. Uszkodzenie nerwu kulszowego może w dużym stopniu odbić się na zdrowiu: paraliż nogi, problemy z poruszaniem się czy przewlekły ból. Leczenie uszkodzonego nerwu kulszowego może wymagać fizjoterapii i/lub zabiegów chirurgicznych. Zalecane metody obniżenia ryzyka uszkodzenia nerwu kulszowego nie są w pełni skuteczne, gdyż metoda „górnego prawego kwadratu\" wyznacza miejsce zastrzyku zbyt mało precyzyjnie -- dokładne ułożenie pośladka względem nerwu kulszowego może różnić się znacząco między różnymi osobami. Ze wszystkich wymienionych względów w wytycznych pielęgniarskich zaleca się odejście od zastrzyków domięśniowych w ten rejon pośladka. Biorąc pod uwagę istnienie szeregu bezpieczniejszych miejsc, ryzykowanie nie jest w ogóle konieczne. Od pielęgniarek można usłyszeć bardzo różne informacje, często nie będą one miały jednak pokrycia w najnowszych badaniach i podręcznikach, a w sile tradycji i przyzwyczajenia.
+Uszkodzenia nerwu kulszowego nie są częstym powikłaniem, wiele osób może przez całe życie wykonywać iniekcje domięśniowe w pośladek i ich nie doznać. Jednakże nawet małe ryzyko warto ograniczać, gdy związane jest z poważnymi konsekwencjami. Uszkodzenie nerwu kulszowego może w dużym stopniu odbić się na zdrowiu: paraliż nogi, problemy z poruszaniem się czy przewlekły ból. Leczenie uszkodzonego nerwu kulszowego może wymagać fizjoterapii i/lub zabiegów chirurgicznych. Zalecane metody obniżenia ryzyka uszkodzenia nerwu kulszowego nie są w pełni skuteczne, gdyż metoda „górnego prawego kwadratu” wyznacza miejsce zastrzyku zbyt mało precyzyjnie -- dokładne ułożenie pośladka względem nerwu kulszowego może różnić się znacząco między różnymi osobami. Ze wszystkich wymienionych względów w wytycznych pielęgniarskich zaleca się odejście od zastrzyków domięśniowych w ten rejon pośladka. Biorąc pod uwagę istnienie szeregu bezpieczniejszych miejsc, ryzykowanie nie jest w ogóle konieczne. Od pielęgniarek można usłyszeć bardzo różne informacje, często nie będą one miały jednak pokrycia w najnowszych badaniach i podręcznikach, a w sile tradycji i przyzwyczajenia.
 :::
 
 :::spoiler Co może się stać przy przypadkowym podaniu leku dożylnie?
@@ -598,7 +595,7 @@ W przypadku iniekcji podskórnej ryzyko nie występuje, ponieważ zastrzyk wykon
 
 [^1]: Carol R. Taylor, Carol Lillis, Psriscilla LeMone, Pamela Lynn. (2011). "Fundamentals of nursing: The art and science of nursing care", str. 754.
 
-[^2]: Laurenzano SE, Newfield RS, Lee E, Marinkovic M. (2021). [*Subcutaneous testosterone is effective and safe as gender-affirming hormone therapy in transmasculine and gender-diverse adolescents and young adults: a single center\'s 8-year experience*](https://www.liebertpub.com/doi/10.1089/trgh.2020.0103). Transgender Health 6:6, str. 343--352.
+[^2]: Laurenzano SE, Newfield RS, Lee E, Marinkovic M. (2021). [*Subcutaneous testosterone is effective and safe as gender-affirming hormone therapy in transmasculine and gender-diverse adolescents and young adults: a single center's 8-year experience*](https://www.liebertpub.com/doi/10.1089/trgh.2020.0103). Transgender Health 6:6, str. 343--352.
 
 [^3]: Herndon JS, Maheshwari AK, Nippoldt TB, Carlson SJ, Davidge-Pitts CJ, Chang AY. (2023). [*Comparison of the Subcutaneous and Intramuscular Estradiol Regimens as Part of Gender-Affirming Hormone Therapy*](https://pubmed.ncbi.nlm.nih.gov/36868378/). Endocr Pract.
 
