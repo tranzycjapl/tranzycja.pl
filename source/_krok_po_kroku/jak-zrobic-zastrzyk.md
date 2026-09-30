@@ -1,9 +1,4 @@
 ---
-title: Jak zrobić sobie zastrzyk? Poradnik do iniekcji podskórnych i domięśniowych V2
-
----
-
----
 kolejnosc: 80
 zaktualizowano: '2026-09-30 12:00:00'
 tags: krok po kroku, tranzycja medyczna, terapia hormonalna
@@ -138,7 +133,7 @@ W przypadku leku Nebido z racji wysokiej objętości przyjmowanej substancji odr
 2.  **Zanim otworzysz ampułkę**, w pierwszej kolejności upewnij się, że cały preparat znajduje się w jej dolnej części. Jeśli widzisz płyn w główce ampułki, wykonaj nią kilka okrężnych ruchów albo stuknij kilka razy w górną część szyjki tak, żeby płyn przepłynął na dół.
 3.  **Aby otworzyć ampułkę**, musisz zlokalizować dwa oznaczenia -- pierwsze z nich to cienka linia na przewężeniu ampułki. W tym miejscu jej główka odłamie się od części zawierającej płyn. Drugim oznaczenie jest kropka powyżej linii -- to miejsce, gdzie należy przyłożyć siłę, by odłamać główkę.
 4.  Aby osłabić szkło przed otwarciem ampułki, należy kilkakrotnie popukać paznokciem w miejscu przeznaczonym do ułamania. **Jeżeli boisz się skaleczenia**, możesz użyć gazika, żeby zabezpieczyć palce dłoni, którą odłamujesz główkę.
-5.  Jedną ręką chwyć dolną część ampułki. Drugą ręką złap główkę ampułki między palec wskazujący i kciuk, tak żeby dociskać kropkę kciukiem.Stanowczym ruchem pociągnij główkę w tył, od ciebie, tak aby się złamała -- powinna łatwo pęknąć na linii. Główkę ampułki możesz wyrzucić do pojemnika na odpady, a resztę odstawić na stół.
+5.  Jedną ręką chwyć dolną część ampułki. Drugą ręką złap główkę ampułki między palec wskazujący i kciuk, tak żeby dociskać kropkę kciukiem. Stanowczym ruchem pociągnij główkę w tył, od ciebie, tak aby się złamała -- powinna łatwo pęknąć na linii. Główkę ampułki możesz wyrzucić do pojemnika na odpady, a resztę odstawić na stół.
 
 **Pobieranie preparatu:**
 
@@ -369,7 +364,7 @@ Jednorazowa dawka leku, którą możemy podać w jednym wstrzyknięciu przy pomo
 2.  **Zanim otworzysz ampułkę**, w pierwszej kolejności upewnij się, że cały preparat znajduje się w jej dolnej części. Jeśli widzisz płyn w główce ampułki, wykonaj nią kilka okrężnych ruchów albo stuknij kilka razy w górną część szyjki tak, żeby płyn przepłynął na dół.
 3.  **Aby otworzyć ampułkę**, musisz zlokalizować dwa oznaczenia -- pierwsze z nich to cienka linia na przewężeniu ampułki. W tym miejscu jej główka odłamie się od części zawierającej płyn. Drugim oznaczenie jest kropka powyżej linii -- to miejsce, gdzie należy przyłożyć siłę, by odłamać główkę.
 4.  Aby osłabić szkło przed otwarciem ampułki, należy kilkakrotnie popukać paznokciem w miejscu przeznaczonym do ułamania. **Jeżeli boisz się skaleczenia**, możesz użyć gazika, żeby zabezpieczyć palce dłoni, którą odłamujesz główkę.
-5.  Jedną ręką chwyć dolną część ampułki. Drugą ręką złap główkę ampułki między palec wskazujący i kciuk, tak żeby dociskać kropkę kciukiem.Stanowczym ruchem pociągnij główkę w tył, od ciebie, tak aby się złamała -- powinna łatwo pęknąć na linii. Główkę ampułki możesz wyrzucić do pojemnika na odpady, a resztę odstawić na stół.
+5.  Jedną ręką chwyć dolną część ampułki. Drugą ręką złap główkę ampułki między palec wskazujący i kciuk, tak żeby dociskać kropkę kciukiem. Stanowczym ruchem pociągnij główkę w tył, od ciebie, tak aby się złamała -- powinna łatwo pęknąć na linii. Główkę ampułki możesz wyrzucić do pojemnika na odpady, a resztę odstawić na stół.
 
 **Pobieranie preparatu:**
 
@@ -447,7 +442,7 @@ iniekcji](#wyznaczanie-miejsca-wklucia-podskornego).**
 
 1.  **Umyj dokładnie ręce wodą z mydłem i zdezynfekuj je.**
 2.  Przygotuj odpowiednią ilość leku, zgodnie ze zleceniem lekarza (np. 1 ampułka 1 ml), oraz potrzebny sprzęt.
-3.  Nabierz preparat z [ampułki](#nabieranie-z-ampulki) lub [fiolki](#nabieranie-z-fiolki) (szczegóły w odpowiedniej sekcji).
+3.  Nabierz preparat z [ampułki](#nabieranie-z-ampulki-2) lub [fiolki](#nabieranie-z-fiolki-2) (szczegóły w odpowiedniej sekcji).
 4.  **Wybierz konkretny punkt do wkłucia -- lepiej teraz, niż trzymając strzykawkę w rękach.** Kiedy go znajdziesz, odkaź go wacikiem nasączonym alkoholem. Pozwól wyparować preparatowi do odkażania -- wkłucia w mokrą skórę są nieco bardziej bolesne, a także nie należy wprowadzać alkoholu do wkłucia.
 5.  **Przygotuj się do wkłucia.** To może być najtrudniejszy moment, więc weź głęboki oddech i zbierz siły. Niektóre osoby lubią puścić sobie muzykę lub rozmawiać, robiąc zastrzyk.
 6.  Zdejmij zabezpieczenie z igły. **Przed wkłuciem nie odkładaj już strzykawki na stół i uważaj, by nie dotknąć igły.**
@@ -458,10 +453,10 @@ iniekcji](#wyznaczanie-miejsca-wklucia-podskornego).**
 11. Aby dotrzeć pod skórę, wkłuwamy się na około trzy czwarte długości igły. W trakcie wkłuwania możesz poczuć delikatny opór, szczególnie gdy igła dotrze do tkanki podskórnej. Nie ma nic dziwnego w tym, gdy po drodze poczujesz niewielki ból, ucisk lub dyskomfort. **Żadna z tych rzeczy nie oznacza że należy przerwać zastrzyk.**
 12. Po dotarciu na odpowiednią głębokość możesz chwilę odetchnąć -- najtrudniejsze za Tobą. Jednocześnie staraj się nie ruszać igłą w ciele i nie zwlekać z wprowadzeniem leku.
 13. Ułóż palce na tłoku, drugą ręką nadal pilnując, żeby igła nie ruszała się w ciele.
-19. Zacznij wprowadzać preparat. W zależności od temperatury płynu i cech miejsca wkłucia, może być potrzebne żeby włożyć w to trochę siły. trzeba będzie włożyć w to trochę siły. **Lek wprowadzaj z prędkością nie większą niż 0,1 mililitra na sekundę.** W tym momencie także możesz poczuć delikatny ucisk bądź ból -- zazwyczaj dobrym pomysłem jest zrobić wtedy krótką przerwę i po chwili kontynuować.
-14. Po wprowadzeniu całej dawki poczekaj 2--3 sekundy, po czym jednym gładkim ruchem wyjmij igłę z ciała. Możesz zauważyć w tym momencie, jak z miejsca wkłucia wycieka trochę krwi. Przyłóż gazik do niego gazik na 10 sekund, by zatrzymać krwawienie. Możesz także zabezpieczyć miejsce wkłucia plastrem.
-15. Wyrzuć strzykawkę razem z igłą do pojemnika na odpady, nie zakładaj zabezpieczenia na igłę. Prędzej ukłujesz się, robiąc to, niż wyrzucając niezabezpieczoną igłę. 
-16. Nie przejmuj się, jeśli zobaczysz wyciekający lek -- wytrzyj go podobnie jak krew. **Większość dawki trafiła na swoje miejsce i definitywnie nie jest to powód by powtarzać zastrzyk.**
+14. Zacznij wprowadzać preparat. W zależności od temperatury płynu i cech miejsca wkłucia, może być potrzebne żeby włożyć w to trochę siły. trzeba będzie włożyć w to trochę siły. **Lek wprowadzaj z prędkością nie większą niż 0,1 mililitra na sekundę.** W tym momencie także możesz poczuć delikatny ucisk bądź ból -- zazwyczaj dobrym pomysłem jest zrobić wtedy krótką przerwę i po chwili kontynuować.
+15. Po wprowadzeniu całej dawki poczekaj 2--3 sekundy, po czym jednym gładkim ruchem wyjmij igłę z ciała. Możesz zauważyć w tym momencie, jak z miejsca wkłucia wycieka trochę krwi. Przyłóż gazik do niego gazik na 10 sekund, by zatrzymać krwawienie. Możesz także zabezpieczyć miejsce wkłucia plastrem.
+16. Wyrzuć strzykawkę razem z igłą do pojemnika na odpady, nie zakładaj zabezpieczenia na igłę. Prędzej ukłujesz się, robiąc to, niż wyrzucając niezabezpieczoną igłę. 
+17. Nie przejmuj się, jeśli zobaczysz wyciekający lek -- wytrzyj go podobnie jak krew. **Większość dawki trafiła na swoje miejsce i definitywnie nie jest to powód by powtarzać zastrzyk.**
 :::
 
 ### Iniekcja podskórna w przychodni
