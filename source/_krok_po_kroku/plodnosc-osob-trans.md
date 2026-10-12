@@ -288,7 +288,7 @@ Jeśli po urodzeniu dziecka rodzice zdecydują się na powrót do Polski, to w n
 
 **Powyższa lista nie jest wyczerpująca**, a obejmuje jedynie pewien wybór klinik leczenia niepłodności z największych miast Polski. 
 
-Jako tranzycja.pl wysłaliśmy zapytania do ponad 20 polskich klinik odnośnie ich doświadczeń z transpłciowymi osobami pacjenckimi w zakresie mrożenia gamet. Do tej pory odpowiedziały nam dwie – **klinika Artivmed w Krakowie oraz nOvum w Warszawie**. Obie kliniki zadeklarowały wieloletnie doświadczenie w przyjmowaniu osób transpłciowych oraz brak problemów prawnych w przypadku używania zamrożonych gamet po zmianie danych oraz w obrębie innych krajów europejskich. Z informacji społecznościowych wiemy również o transinkluzywności **wrocławskiego oddziału Invimed**. 
+Jako tranzycja.pl wysłaliśmy zapytania do ponad 20 polskich klinik odnośnie ich doświadczeń z transpłciowymi osobami pacjenckimi w zakresie mrożenia gamet. Do tej pory odpowiedziały nam dwie – **klinika Artivmed w Krakowie oraz nOvum w Warszawie**. Obie kliniki zadeklarowały wieloletnie doświadczenie w przyjmowaniu osób transpłciowych oraz brak problemów prawnych w przypadku chęci przetransportowania gamet do innych krajów europejskich po zmianie danych. Z informacji społecznościowych wiemy również o transinkluzywności **wrocławskiego oddziału Invimed**. 
 
 :::info 
 Jeśli posiadasz informacje na temat transprzyjaznych klinik płodności, daj nam znać na mail kontakt@tranzycja.pl! Chętnie uzupełnimy listę.
