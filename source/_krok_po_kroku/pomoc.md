@@ -103,7 +103,10 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 #### Wrocław: 
 
-- **Kultura Równości:** konsultacje prawne, pełnomocnictwo w sprawach dotyczących uzgodnienia płci/dyskryminacji; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org 
+- **Kultura Równości:** konsultacje prawne, pełnomocnictwo w sprawach dotyczących uzgodnienia płci/dyskryminacji; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org
+
+#### Warszawa: 
+- **Fundacja Kuchnia Konfliktu:** wsparcie dla osób LGBTQ+ z doświadczeniem migracji, pomoc w porządkowaniu spraw urzędowych, szukaniu pracy, pokoju do wynajęcia; [strona internetowa](https://kuchniakonfliktu.pl/), e-mail: kuchniakonfliktu.assist@gmail.com, tel. +48 505 378 071 , poniedziałek – czwartek, 10.00 – 16.00. 
 
 ## Grupy wsparcia/towarzyskie 
 
@@ -196,7 +199,10 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 
 #### Wrocław: 
 
-- **Kultura Równości, Skłot Hulajpole oraz Stowarzyszenie Nomada:** pokój interwencyjny; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org 
+- **Kultura Równości, Skłot Hulajpole oraz Stowarzyszenie Nomada:** pokój interwencyjny; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org
+
+#### Warszawa: 
+- **Fundacja Kuchnia Konfliktu:** wsparcie dla osób z doświadczeniem migracji, dom interwencyjny (czas trwania pobytu: 1 miesiąc); [strona internetowa](https://kuchniakonfliktu.pl/), e-mail: kuchniakonfliktu.assist@gmail.com, [formularz do zgłoszenia potrzeby zakwaterowania](https://docs.google.com/forms/d/e/1FAIpQLSeJWgZxzSJbzOSNLIPMTeCO_JlIj9YGL4pCHzj1LICn_Cpm3A/viewform)
 
 ## Pomoc w tranzycji 
 
