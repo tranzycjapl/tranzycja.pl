@@ -202,7 +202,7 @@ W miarę możliwości przedstawione zasoby zostały zweryfikowane z organizacjam
 - **Kultura Równości, Skłot Hulajpole oraz Stowarzyszenie Nomada:** pokój interwencyjny; [Facebook](https://www.facebook.com/kulturarownosci), [Instagram](https://www.instagram.com/kultura_rownosci/), [strona internetowa](https://kulturarownosci.org/), e-mail: pomoc@kulturarownosci.org
 
 #### Warszawa: 
-- **Fundacja Kuchnia Konfliktu:** wsparcie dla osób z doświadczeniem migracji, domu interwencyjny (czas trwania pobytu: 1 miesiąc); [strona internetowa](https://kuchniakonfliktu.pl/), e-mail: kuchniakonfliktu.assist@gmail.com, [formularz do zgłoszenia potrzeby zakwaterowania](https://docs.google.com/forms/d/e/1FAIpQLSeJWgZxzSJbzOSNLIPMTeCO_JlIj9YGL4pCHzj1LICn_Cpm3A/viewform)
+- **Fundacja Kuchnia Konfliktu:** wsparcie dla osób z doświadczeniem migracji, dom interwencyjny (czas trwania pobytu: 1 miesiąc); [strona internetowa](https://kuchniakonfliktu.pl/), e-mail: kuchniakonfliktu.assist@gmail.com, [formularz do zgłoszenia potrzeby zakwaterowania](https://docs.google.com/forms/d/e/1FAIpQLSeJWgZxzSJbzOSNLIPMTeCO_JlIj9YGL4pCHzj1LICn_Cpm3A/viewform)
 
 ## Pomoc w tranzycji 
 
